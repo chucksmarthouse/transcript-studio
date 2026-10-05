@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Transcript Studio: a waveform turning into color-coded transcript lines -->
+  <rect x="6" y="6" width="116" height="116" rx="24" fill="#1e293b"/>
+  <g stroke-linecap="round" stroke-width="7" fill="none">
+    <path stroke="#e2e8f0" d="M24 64v0M36 50v28M48 38v52M60 54v20"/>
+    <path stroke="#1d4ed8" d="M76 42h28"/>
+    <path stroke="#059669" d="M76 58h22"/>
+    <path stroke="#d97706" d="M76 74h26"/>
+    <path stroke="#dc2626" d="M76 90h16"/>
+  </g>
+</svg>

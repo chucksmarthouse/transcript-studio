@@ -1,0 +1,63 @@
+{
+ "source": "nasa-podcast-ep434-2speakers.mp3",
+ "seed": 434,
+ "defects": {
+  "clip": {
+   "start": 100.0,
+   "end": 120.0,
+   "boost_db": 14.0
+  },
+  "level": {
+   "target_lufs": -35.0
+  },
+  "hum": {
+   "hz": 60.0,
+   "dbfs": -45.0
+  },
+  "hiss": {
+   "dbfs": -52.0
+  }
+ },
+ "recommended_plan": {
+  "whole": {
+   "channel": "mix",
+   "highpass_hz": 70,
+   "lowpass_hz": 0,
+   "hum_hz": 60,
+   "presence_db": 0.0,
+   "declick": false,
+   "declip": false,
+   "denoise": "fft",
+   "denoise_strength": "medium",
+   "leveler": "off",
+   "normalize": true,
+   "gain_db": 0.0
+  },
+  "blocks": [
+   {
+    "start": 100.0,
+    "end": 120.0,
+    "settings": {
+     "channel": "mix",
+     "highpass_hz": 70,
+     "lowpass_hz": 0,
+     "hum_hz": 60,
+     "presence_db": 0.0,
+     "declick": false,
+     "declip": true,
+     "denoise": "fft",
+     "denoise_strength": "medium",
+     "leveler": "off",
+     "normalize": true,
+     "gain_db": 0.0
+    }
+   }
+  ]
+ },
+ "measured_before": {
+  "hum_db": 34.34,
+  "snr_db": 11.35,
+  "near_peak_fraction": 0.17218,
+  "integrated_lufs": -35.2
+ }
+}

@@ -1,0 +1,14 @@
+.venv/
+vendor/
+__pycache__/
+.pytest_cache/
+.superpowers/
+.claude/
+CLAUDE.md
+*.ts.flac
+*.boosted.flac
+samples/**/.cache/
+models/rnnoise/
+*.tsproj.json.tmp
+out.md
+docs/superpowers/

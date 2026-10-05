@@ -1,0 +1,15 @@
+PySide6
+faster-whisper
+resemblyzer
+scikit-learn
+soundfile
+# ECAPA speaker embeddings (default diarization model; ungated HF download, no token)
+speechbrain
+# Word (.docx) export
+python-docx
+# webrtcvad (resemblyzer dep) imports pkg_resources, removed in setuptools 81
+setuptools<81
+pytest
+# Hum/noise measurements in tools/tutorial_metrics.py (also arrives via scikit-learn)
+scipy
+numpy

@@ -1,0 +1,5863 @@
+{
+ "audio_path": "nasa-podcast-ep434-2speakers.mp3",
+ "model_size": "medium.en",
+ "engine": "whisper.cpp",
+ "title": "nasa-podcast-ep434-2speakers",
+ "boosted_audio_path": null,
+ "low_confidence_threshold": 0.5,
+ "paragraphs": [
+  {
+   "index": 1,
+   "speaker_id": 1,
+   "is_nonspeech": false,
+   "start_time": 0.07,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "said it better than I did there.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "said",
+       "start_time": 0.07,
+       "end_time": 0.33,
+       "probability": 0.098644
+      },
+      {
+       "text": "it",
+       "start_time": 0.33,
+       "end_time": 0.49,
+       "probability": 0.99379
+      },
+      {
+       "text": "better",
+       "start_time": 0.49,
+       "end_time": 0.98,
+       "probability": 0.998921
+      },
+      {
+       "text": "than",
+       "start_time": 0.98,
+       "end_time": 1.3,
+       "probability": 0.996436
+      },
+      {
+       "text": "I",
+       "start_time": 1.33,
+       "end_time": 1.39,
+       "probability": 0.996656
+      },
+      {
+       "text": "did",
+       "start_time": 1.39,
+       "end_time": 1.63,
+       "probability": 0.998929
+      },
+      {
+       "text": "there.",
+       "start_time": 1.63,
+       "end_time": 2.3,
+       "probability": 0.9527435
+      }
+     ],
+     "start_time": 0.07,
+     "end_time": 2.3
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "speaker_id": 2,
+   "is_nonspeech": false,
+   "start_time": 2.38,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "I don't think so.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "I",
+       "start_time": 2.38,
+       "end_time": 2.38,
+       "probability": 0.928029
+      },
+      {
+       "text": "don't",
+       "start_time": 2.39,
+       "end_time": 2.67,
+       "probability": 0.989311
+      },
+      {
+       "text": "think",
+       "start_time": 2.68,
+       "end_time": 2.99,
+       "probability": 0.998974
+      },
+      {
+       "text": "so.",
+       "start_time": 2.99,
+       "end_time": 3.31,
+       "probability": 0.8637405
+      }
+     ],
+     "start_time": 2.38,
+     "end_time": 3.31
+    },
+    {
+     "index": 2,
+     "text": "I'm just excited.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "I'm",
+       "start_time": 3.39,
+       "end_time": 3.67,
+       "probability": 0.9962420000000001
+      },
+      {
+       "text": "just",
+       "start_time": 3.67,
+       "end_time": 4.17,
+       "probability": 0.9821
+      },
+      {
+       "text": "excited.",
+       "start_time": 4.28,
+       "end_time": 5.31,
+       "probability": 0.9917834999999999
+      }
+     ],
+     "start_time": 3.39,
+     "end_time": 5.31
+    },
+    {
+     "index": 3,
+     "text": "So how does training a crew for Artemis differ than training a crew for the space station,",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "So",
+       "start_time": 5.51,
+       "end_time": 5.56,
+       "probability": 0.998982
+      },
+      {
+       "text": "how",
+       "start_time": 5.56,
+       "end_time": 5.74,
+       "probability": 0.996649
+      },
+      {
+       "text": "does",
+       "start_time": 5.74,
+       "end_time": 5.98,
+       "probability": 0.979892
+      },
+      {
+       "text": "training",
+       "start_time": 5.98,
+       "end_time": 6.47,
+       "probability": 0.995068
+      },
+      {
+       "text": "a",
+       "start_time": 6.47,
+       "end_time": 6.52,
+       "probability": 0.988648
+      },
+      {
+       "text": "crew",
+       "start_time": 6.53,
+       "end_time": 6.77,
+       "probability": 0.996101
+      },
+      {
+       "text": "for",
+       "start_time": 6.77,
+       "end_time": 6.95,
+       "probability": 0.997014
+      },
+      {
+       "text": "Artemis",
+       "start_time": 6.95,
+       "end_time": 7.38,
+       "probability": 0.997143
+      },
+      {
+       "text": "differ",
+       "start_time": 7.38,
+       "end_time": 7.74,
+       "probability": 0.979447
+      },
+      {
+       "text": "than",
+       "start_time": 7.79,
+       "end_time": 7.99,
+       "probability": 0.970165
+      },
+      {
+       "text": "training",
+       "start_time": 7.99,
+       "end_time": 8.48,
+       "probability": 0.993191
+      },
+      {
+       "text": "a",
+       "start_time": 8.48,
+       "end_time": 8.54,
+       "probability": 0.990866
+      },
+      {
+       "text": "crew",
+       "start_time": 8.54,
+       "end_time": 8.78,
+       "probability": 0.995759
+      },
+      {
+       "text": "for",
+       "start_time": 8.78,
+       "end_time": 8.96,
+       "probability": 0.998647
+      },
+      {
+       "text": "the",
+       "start_time": 8.96,
+       "end_time": 9.14,
+       "probability": 0.975785
+      },
+      {
+       "text": "space",
+       "start_time": 9.14,
+       "end_time": 9.45,
+       "probability": 0.785742
+      },
+      {
+       "text": "station,",
+       "start_time": 9.45,
+       "end_time": 10.36,
+       "probability": 0.7480215
+      }
+     ],
+     "start_time": 5.51,
+     "end_time": 10.36
+    },
+    {
+     "index": 4,
+     "text": "besides, you know, the fact that it's Orion and maybe the moon, things like that?",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "besides,",
+       "start_time": 10.43,
+       "end_time": 11.08,
+       "probability": 0.9419580000000001
+      },
+      {
+       "text": "you",
+       "start_time": 11.08,
+       "end_time": 11.22,
+       "probability": 0.997527
+      },
+      {
+       "text": "know,",
+       "start_time": 11.32,
+       "end_time": 11.8,
+       "probability": 0.99798
+      },
+      {
+       "text": "the",
+       "start_time": 11.8,
+       "end_time": 12.04,
+       "probability": 0.999188
+      },
+      {
+       "text": "fact",
+       "start_time": 12.04,
+       "end_time": 12.35,
+       "probability": 0.968634
+      },
+      {
+       "text": "that",
+       "start_time": 12.48,
+       "end_time": 12.66,
+       "probability": 0.995084
+      },
+      {
+       "text": "it's",
+       "start_time": 12.71,
+       "end_time": 12.95,
+       "probability": 0.995995
+      },
+      {
+       "text": "Orion",
+       "start_time": 13.05,
+       "end_time": 13.4,
+       "probability": 0.998992
+      },
+      {
+       "text": "and",
+       "start_time": 13.4,
+       "end_time": 13.64,
+       "probability": 0.848627
+      },
+      {
+       "text": "maybe",
+       "start_time": 13.64,
+       "end_time": 14.04,
+       "probability": 0.992339
+      },
+      {
+       "text": "the",
+       "start_time": 14.04,
+       "end_time": 14.26,
+       "probability": 0.99886
+      },
+      {
+       "text": "moon,",
+       "start_time": 14.28,
+       "end_time": 14.65,
+       "probability": 0.8104585
+      },
+      {
+       "text": "things",
+       "start_time": 15.09,
+       "end_time": 15.24,
+       "probability": 0.99058
+      },
+      {
+       "text": "like",
+       "start_time": 15.24,
+       "end_time": 15.55,
+       "probability": 0.999634
+      },
+      {
+       "text": "that?",
+       "start_time": 15.73,
+       "end_time": 16.14,
+       "probability": 0.9064895
+      }
+     ],
+     "start_time": 10.43,
+     "end_time": 16.14
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "speaker_id": 1,
+   "is_nonspeech": false,
+   "start_time": 16.27,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "Yeah, I think the biggest difference to me is that for Orion, we're still developing",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "Yeah,",
+       "start_time": 16.27,
+       "end_time": 17.02,
+       "probability": 0.712326
+      },
+      {
+       "text": "I",
+       "start_time": 17.02,
+       "end_time": 17.07,
+       "probability": 0.999093
+      },
+      {
+       "text": "think",
+       "start_time": 17.16,
+       "end_time": 17.83,
+       "probability": 0.999611
+      },
+      {
+       "text": "the",
+       "start_time": 17.83,
+       "end_time": 18.19,
+       "probability": 0.876665
+      },
+      {
+       "text": "biggest",
+       "start_time": 18.33,
+       "end_time": 19.2,
+       "probability": 0.946239
+      },
+      {
+       "text": "difference",
+       "start_time": 19.2,
+       "end_time": 20.47,
+       "probability": 0.999344
+      },
+      {
+       "text": "to",
+       "start_time": 20.58,
+       "end_time": 20.83,
+       "probability": 0.978439
+      },
+      {
+       "text": "me",
+       "start_time": 20.93,
+       "end_time": 21.11,
+       "probability": 0.9996
+      },
+      {
+       "text": "is",
+       "start_time": 21.11,
+       "end_time": 21.37,
+       "probability": 0.995456
+      },
+      {
+       "text": "that",
+       "start_time": 21.38,
+       "end_time": 21.93,
+       "probability": 0.993506
+      },
+      {
+       "text": "for",
+       "start_time": 21.93,
+       "end_time": 22.34,
+       "probability": 0.888557
+      },
+      {
+       "text": "Orion,",
+       "start_time": 22.34,
+       "end_time": 23.28,
+       "probability": 0.7836985000000001
+      },
+      {
+       "text": "we're",
+       "start_time": 23.31,
+       "end_time": 23.82,
+       "probability": 0.997897
+      },
+      {
+       "text": "still",
+       "start_time": 23.97,
+       "end_time": 24.65,
+       "probability": 0.99968
+      },
+      {
+       "text": "developing",
+       "start_time": 24.65,
+       "end_time": 26.12,
+       "probability": 0.998094
+      }
+     ],
+     "start_time": 16.27,
+     "end_time": 26.12
+    },
+    {
+     "index": 2,
+     "text": "the ops concepts, the hardware, the vehicle is still being developed while we're doing",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "the",
+       "start_time": 26.19,
+       "end_time": 26.34,
+       "probability": 0.997413
+      },
+      {
+       "text": "ops",
+       "start_time": 26.34,
+       "end_time": 26.56,
+       "probability": 0.867854
+      },
+      {
+       "text": "concepts,",
+       "start_time": 26.56,
+       "end_time": 27.25,
+       "probability": 0.9676085000000001
+      },
+      {
+       "text": "the",
+       "start_time": 27.35,
+       "end_time": 27.53,
+       "probability": 0.999131
+      },
+      {
+       "text": "hardware,",
+       "start_time": 27.53,
+       "end_time": 28.28,
+       "probability": 0.9786885000000001
+      },
+      {
+       "text": "the",
+       "start_time": 28.28,
+       "end_time": 28.5,
+       "probability": 0.995733
+      },
+      {
+       "text": "vehicle",
+       "start_time": 28.5,
+       "end_time": 28.96,
+       "probability": 0.941027
+      },
+      {
+       "text": "is",
+       "start_time": 29.07,
+       "end_time": 29.17,
+       "probability": 0.909275
+      },
+      {
+       "text": "still",
+       "start_time": 29.17,
+       "end_time": 29.52,
+       "probability": 0.999157
+      },
+      {
+       "text": "being",
+       "start_time": 29.54,
+       "end_time": 29.9,
+       "probability": 0.999443
+      },
+      {
+       "text": "developed",
+       "start_time": 29.9,
+       "end_time": 30.41,
+       "probability": 0.998951
+      },
+      {
+       "text": "while",
+       "start_time": 30.85,
+       "end_time": 30.96,
+       "probability": 0.911219
+      },
+      {
+       "text": "we're",
+       "start_time": 30.96,
+       "end_time": 31.31,
+       "probability": 0.9966265000000001
+      },
+      {
+       "text": "doing",
+       "start_time": 31.49,
+       "end_time": 31.8,
+       "probability": 0.995839
+      }
+     ],
+     "start_time": 26.19,
+     "end_time": 31.8
+    },
+    {
+     "index": 3,
+     "text": "the training.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "the",
+       "start_time": 31.87,
+       "end_time": 32.01,
+       "probability": 0.998452
+      },
+      {
+       "text": "training.",
+       "start_time": 32.01,
+       "end_time": 32.79,
+       "probability": 0.996683
+      }
+     ],
+     "start_time": 31.87,
+     "end_time": 32.79
+    },
+    {
+     "index": 4,
+     "text": "So for ISS, the mission is pretty set when you start training.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "So",
+       "start_time": 32.87,
+       "end_time": 32.92,
+       "probability": 0.991336
+      },
+      {
+       "text": "for",
+       "start_time": 32.92,
+       "end_time": 33.1,
+       "probability": 0.917613
+      },
+      {
+       "text": "ISS,",
+       "start_time": 33.1,
+       "end_time": 33.4,
+       "probability": 0.9518455
+      },
+      {
+       "text": "the",
+       "start_time": 33.4,
+       "end_time": 33.58,
+       "probability": 0.998833
+      },
+      {
+       "text": "mission",
+       "start_time": 33.58,
+       "end_time": 34.02,
+       "probability": 0.999298
+      },
+      {
+       "text": "is",
+       "start_time": 34.02,
+       "end_time": 34.14,
+       "probability": 0.999436
+      },
+      {
+       "text": "pretty",
+       "start_time": 34.14,
+       "end_time": 34.51,
+       "probability": 0.999287
+      },
+      {
+       "text": "set",
+       "start_time": 34.51,
+       "end_time": 34.69,
+       "probability": 0.998951
+      },
+      {
+       "text": "when",
+       "start_time": 34.69,
+       "end_time": 34.94,
+       "probability": 0.951644
+      },
+      {
+       "text": "you",
+       "start_time": 34.94,
+       "end_time": 35.11,
+       "probability": 0.999645
+      },
+      {
+       "text": "start",
+       "start_time": 35.15,
+       "end_time": 35.39,
+       "probability": 0.999394
+      },
+      {
+       "text": "training.",
+       "start_time": 35.49,
+       "end_time": 36.2,
+       "probability": 0.98746
+      }
+     ],
+     "start_time": 32.87,
+     "end_time": 36.2
+    },
+    {
+     "index": 5,
+     "text": "You know roughly what you need to do and some of the experiments that will be on board,",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "You",
+       "start_time": 36.27,
+       "end_time": 36.44,
+       "probability": 0.999607
+      },
+      {
+       "text": "know",
+       "start_time": 36.49,
+       "end_time": 36.8,
+       "probability": 0.999032
+      },
+      {
+       "text": "roughly",
+       "start_time": 36.8,
+       "end_time": 37.33,
+       "probability": 0.97761
+      },
+      {
+       "text": "what",
+       "start_time": 37.43,
+       "end_time": 37.75,
+       "probability": 0.999546
+      },
+      {
+       "text": "you",
+       "start_time": 37.75,
+       "end_time": 38.01,
+       "probability": 0.9995
+      },
+      {
+       "text": "need",
+       "start_time": 38.01,
+       "end_time": 38.34,
+       "probability": 0.999649
+      },
+      {
+       "text": "to",
+       "start_time": 38.34,
+       "end_time": 38.51,
+       "probability": 0.99976
+      },
+      {
+       "text": "do",
+       "start_time": 38.55,
+       "end_time": 38.69,
+       "probability": 0.999218
+      },
+      {
+       "text": "and",
+       "start_time": 38.69,
+       "end_time": 38.95,
+       "probability": 0.820206
+      },
+      {
+       "text": "some",
+       "start_time": 38.95,
+       "end_time": 39.29,
+       "probability": 0.999367
+      },
+      {
+       "text": "of",
+       "start_time": 39.29,
+       "end_time": 39.44,
+       "probability": 0.999546
+      },
+      {
+       "text": "the",
+       "start_time": 39.45,
+       "end_time": 39.72,
+       "probability": 0.999489
+      },
+      {
+       "text": "experiments",
+       "start_time": 39.72,
+       "end_time": 40.49,
+       "probability": 0.998201
+      },
+      {
+       "text": "that",
+       "start_time": 40.93,
+       "end_time": 41.01,
+       "probability": 0.997778
+      },
+      {
+       "text": "will",
+       "start_time": 41.01,
+       "end_time": 41.32,
+       "probability": 0.487932
+      },
+      {
+       "text": "be",
+       "start_time": 41.34,
+       "end_time": 41.42,
+       "probability": 0.999539
+      },
+      {
+       "text": "on",
+       "start_time": 41.57,
+       "end_time": 41.69,
+       "probability": 0.578127
+      },
+      {
+       "text": "board,",
+       "start_time": 41.69,
+       "end_time": 42.4,
+       "probability": 0.704839
+      }
+     ],
+     "start_time": 36.27,
+     "end_time": 42.4
+    },
+    {
+     "index": 6,
+     "text": "and you can really train towards that.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "and",
+       "start_time": 42.47,
+       "end_time": 42.62,
+       "probability": 0.999706
+      },
+      {
+       "text": "you",
+       "start_time": 42.62,
+       "end_time": 42.84,
+       "probability": 0.991635
+      },
+      {
+       "text": "can",
+       "start_time": 42.84,
+       "end_time": 43.06,
+       "probability": 0.99774
+      },
+      {
+       "text": "really",
+       "start_time": 43.06,
+       "end_time": 43.5,
+       "probability": 0.95393
+      },
+      {
+       "text": "train",
+       "start_time": 43.5,
+       "end_time": 43.87,
+       "probability": 0.996565
+      },
+      {
+       "text": "towards",
+       "start_time": 43.87,
+       "end_time": 44.38,
+       "probability": 0.993062
+      },
+      {
+       "text": "that.",
+       "start_time": 44.38,
+       "end_time": 44.92,
+       "probability": 0.9928224999999999
+      }
+     ],
+     "start_time": 42.47,
+     "end_time": 44.92
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "speaker_id": 1,
+   "is_nonspeech": false,
+   "start_time": 44.99,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "For Orion, the mission is set, but the timeline is still up in the air, and the ops concepts,",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "For",
+       "start_time": 44.99,
+       "end_time": 45.23,
+       "probability": 0.999619
+      },
+      {
+       "text": "Orion,",
+       "start_time": 45.23,
+       "end_time": 45.95,
+       "probability": 0.9868885000000001
+      },
+      {
+       "text": "the",
+       "start_time": 45.95,
+       "end_time": 46.26,
+       "probability": 0.998544
+      },
+      {
+       "text": "mission",
+       "start_time": 46.26,
+       "end_time": 46.91,
+       "probability": 0.999077
+      },
+      {
+       "text": "is",
+       "start_time": 47.02,
+       "end_time": 47.19,
+       "probability": 0.859286
+      },
+      {
+       "text": "set,",
+       "start_time": 47.19,
+       "end_time": 47.7,
+       "probability": 0.908011
+      },
+      {
+       "text": "but",
+       "start_time": 47.7,
+       "end_time": 48.01,
+       "probability": 0.999497
+      },
+      {
+       "text": "the",
+       "start_time": 48.01,
+       "end_time": 48.32,
+       "probability": 0.999523
+      },
+      {
+       "text": "timeline",
+       "start_time": 48.32,
+       "end_time": 49.15,
+       "probability": 0.992649
+      },
+      {
+       "text": "is",
+       "start_time": 49.15,
+       "end_time": 49.21,
+       "probability": 0.999249
+      },
+      {
+       "text": "still",
+       "start_time": 49.65,
+       "end_time": 49.87,
+       "probability": 0.999306
+      },
+      {
+       "text": "up",
+       "start_time": 49.87,
+       "end_time": 50.04,
+       "probability": 0.998772
+      },
+      {
+       "text": "in",
+       "start_time": 50.07,
+       "end_time": 50.12,
+       "probability": 0.999058
+      },
+      {
+       "text": "the",
+       "start_time": 50.29,
+       "end_time": 50.58,
+       "probability": 0.999043
+      },
+      {
+       "text": "air,",
+       "start_time": 50.58,
+       "end_time": 51.09,
+       "probability": 0.780435
+      },
+      {
+       "text": "and",
+       "start_time": 51.09,
+       "end_time": 51.37,
+       "probability": 0.998468
+      },
+      {
+       "text": "the",
+       "start_time": 51.43,
+       "end_time": 51.71,
+       "probability": 0.997048
+      },
+      {
+       "text": "ops",
+       "start_time": 51.71,
+       "end_time": 52.0,
+       "probability": 0.992723
+      },
+      {
+       "text": "concepts,",
+       "start_time": 52.04,
+       "end_time": 53.08,
+       "probability": 0.96143
+      }
+     ],
+     "start_time": 44.99,
+     "end_time": 53.08
+    },
+    {
+     "index": 2,
+     "text": "they're still being developed while we're training.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "they're",
+       "start_time": 53.23,
+       "end_time": 53.48,
+       "probability": 0.9675605
+      },
+      {
+       "text": "still",
+       "start_time": 53.48,
+       "end_time": 53.71,
+       "probability": 0.999066
+      },
+      {
+       "text": "being",
+       "start_time": 53.71,
+       "end_time": 53.94,
+       "probability": 0.999302
+      },
+      {
+       "text": "developed",
+       "start_time": 53.94,
+       "end_time": 54.29,
+       "probability": 0.999272
+      },
+      {
+       "text": "while",
+       "start_time": 54.39,
+       "end_time": 54.59,
+       "probability": 0.998803
+      },
+      {
+       "text": "we're",
+       "start_time": 54.59,
+       "end_time": 54.82,
+       "probability": 0.9979525
+      },
+      {
+       "text": "training.",
+       "start_time": 54.82,
+       "end_time": 55.36,
+       "probability": 0.999531
+      }
+     ],
+     "start_time": 53.23,
+     "end_time": 55.36
+    },
+    {
+     "index": 3,
+     "text": "So you really have to focus on general skills and vehicle knowledge so that it can all come",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "So",
+       "start_time": 55.43,
+       "end_time": 55.53,
+       "probability": 0.993206
+      },
+      {
+       "text": "you",
+       "start_time": 55.53,
+       "end_time": 55.79,
+       "probability": 0.970462
+      },
+      {
+       "text": "really",
+       "start_time": 55.79,
+       "end_time": 56.22,
+       "probability": 0.998826
+      },
+      {
+       "text": "have",
+       "start_time": 56.32,
+       "end_time": 56.65,
+       "probability": 0.999203
+      },
+      {
+       "text": "to",
+       "start_time": 56.69,
+       "end_time": 56.83,
+       "probability": 0.999424
+      },
+      {
+       "text": "focus",
+       "start_time": 56.83,
+       "end_time": 57.27,
+       "probability": 0.999519
+      },
+      {
+       "text": "on",
+       "start_time": 57.27,
+       "end_time": 57.35,
+       "probability": 0.999588
+      },
+      {
+       "text": "general",
+       "start_time": 57.49,
+       "end_time": 57.98,
+       "probability": 0.998746
+      },
+      {
+       "text": "skills",
+       "start_time": 58.05,
+       "end_time": 58.57,
+       "probability": 0.999123
+      },
+      {
+       "text": "and",
+       "start_time": 58.57,
+       "end_time": 58.82,
+       "probability": 0.993381
+      },
+      {
+       "text": "vehicle",
+       "start_time": 58.83,
+       "end_time": 59.44,
+       "probability": 0.999283
+      },
+      {
+       "text": "knowledge",
+       "start_time": 59.44,
+       "end_time": 60.23,
+       "probability": 0.999695
+      },
+      {
+       "text": "so",
+       "start_time": 60.23,
+       "end_time": 60.34,
+       "probability": 0.829833
+      },
+      {
+       "text": "that",
+       "start_time": 60.4,
+       "end_time": 60.73,
+       "probability": 0.997124
+      },
+      {
+       "text": "it",
+       "start_time": 60.76,
+       "end_time": 60.92,
+       "probability": 0.996398
+      },
+      {
+       "text": "can",
+       "start_time": 60.92,
+       "end_time": 61.14,
+       "probability": 0.998334
+      },
+      {
+       "text": "all",
+       "start_time": 61.21,
+       "end_time": 61.44,
+       "probability": 0.996303
+      },
+      {
+       "text": "come",
+       "start_time": 61.44,
+       "end_time": 61.9,
+       "probability": 0.997775
+      }
+     ],
+     "start_time": 55.43,
+     "end_time": 61.9
+    },
+    {
+     "index": 4,
+     "text": "together in the 11th hour when everything's been decided and you know exactly what the",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "together",
+       "start_time": 61.97,
+       "end_time": 62.38,
+       "probability": 0.999958
+      },
+      {
+       "text": "in",
+       "start_time": 62.38,
+       "end_time": 62.5,
+       "probability": 0.996261
+      },
+      {
+       "text": "the",
+       "start_time": 62.5,
+       "end_time": 62.68,
+       "probability": 0.991155
+      },
+      {
+       "text": "11th",
+       "start_time": 62.68,
+       "end_time": 63.16,
+       "probability": 0.812209
+      },
+      {
+       "text": "hour",
+       "start_time": 63.23,
+       "end_time": 63.4,
+       "probability": 0.999016
+      },
+      {
+       "text": "when",
+       "start_time": 63.4,
+       "end_time": 63.64,
+       "probability": 0.933821
+      },
+      {
+       "text": "everything's",
+       "start_time": 63.64,
+       "end_time": 64.36,
+       "probability": 0.9593225000000001
+      },
+      {
+       "text": "been",
+       "start_time": 64.36,
+       "end_time": 64.6,
+       "probability": 0.997969
+      },
+      {
+       "text": "decided",
+       "start_time": 64.6,
+       "end_time": 65.02,
+       "probability": 0.999397
+      },
+      {
+       "text": "and",
+       "start_time": 65.02,
+       "end_time": 65.2,
+       "probability": 0.837079
+      },
+      {
+       "text": "you",
+       "start_time": 65.2,
+       "end_time": 65.37,
+       "probability": 0.994734
+      },
+      {
+       "text": "know",
+       "start_time": 65.38,
+       "end_time": 65.62,
+       "probability": 0.998852
+      },
+      {
+       "text": "exactly",
+       "start_time": 65.62,
+       "end_time": 66.04,
+       "probability": 0.998677
+      },
+      {
+       "text": "what",
+       "start_time": 66.04,
+       "end_time": 66.17,
+       "probability": 0.997702
+      },
+      {
+       "text": "the",
+       "start_time": 66.28,
+       "end_time": 66.52,
+       "probability": 0.997455
+      }
+     ],
+     "start_time": 61.97,
+     "end_time": 66.52
+    },
+    {
+     "index": 5,
+     "text": "mission is going to be.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "mission",
+       "start_time": 66.59,
+       "end_time": 66.97,
+       "probability": 0.980138
+      },
+      {
+       "text": "is",
+       "start_time": 66.97,
+       "end_time": 67.09,
+       "probability": 0.506418
+      },
+      {
+       "text": "going",
+       "start_time": 67.09,
+       "end_time": 67.38,
+       "probability": 0.891991
+      },
+      {
+       "text": "to",
+       "start_time": 67.48,
+       "end_time": 67.53,
+       "probability": 0.999226
+      },
+      {
+       "text": "be.",
+       "start_time": 67.53,
+       "end_time": 67.88,
+       "probability": 0.9984175
+      }
+     ],
+     "start_time": 66.59,
+     "end_time": 67.88
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "speaker_id": 2,
+   "is_nonspeech": false,
+   "start_time": 67.95,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "That's a great point.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "That's",
+       "start_time": 67.95,
+       "end_time": 68.11,
+       "probability": 0.9976855
+      },
+      {
+       "text": "a",
+       "start_time": 68.17,
+       "end_time": 68.22,
+       "probability": 0.998769
+      },
+      {
+       "text": "great",
+       "start_time": 68.22,
+       "end_time": 68.47,
+       "probability": 0.999714
+      },
+      {
+       "text": "point.",
+       "start_time": 68.47,
+       "end_time": 68.87,
+       "probability": 0.8521380000000001
+      }
+     ],
+     "start_time": 67.95,
+     "end_time": 68.87
+    },
+    {
+     "index": 2,
+     "text": "I mean, versus we've had people flying on the space station coming up for 26 continuous",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "I",
+       "start_time": 68.94,
+       "end_time": 68.94,
+       "probability": 0.994021
+      },
+      {
+       "text": "mean,",
+       "start_time": 68.95,
+       "end_time": 69.3,
+       "probability": 0.892816
+      },
+      {
+       "text": "versus",
+       "start_time": 69.3,
+       "end_time": 69.66,
+       "probability": 0.943246
+      },
+      {
+       "text": "we've",
+       "start_time": 69.66,
+       "end_time": 69.96,
+       "probability": 0.8644529999999999
+      },
+      {
+       "text": "had",
+       "start_time": 69.96,
+       "end_time": 70.14,
+       "probability": 0.999035
+      },
+      {
+       "text": "people",
+       "start_time": 70.21,
+       "end_time": 70.5,
+       "probability": 0.999569
+      },
+      {
+       "text": "flying",
+       "start_time": 70.5,
+       "end_time": 70.86,
+       "probability": 0.998357
+      },
+      {
+       "text": "on",
+       "start_time": 70.86,
+       "end_time": 70.87,
+       "probability": 0.99835
+      },
+      {
+       "text": "the",
+       "start_time": 70.98,
+       "end_time": 71.16,
+       "probability": 0.997307
+      },
+      {
+       "text": "space",
+       "start_time": 71.16,
+       "end_time": 71.46,
+       "probability": 0.976591
+      },
+      {
+       "text": "station",
+       "start_time": 71.46,
+       "end_time": 71.88,
+       "probability": 0.997158
+      },
+      {
+       "text": "coming",
+       "start_time": 71.88,
+       "end_time": 72.24,
+       "probability": 0.952356
+      },
+      {
+       "text": "up",
+       "start_time": 72.24,
+       "end_time": 72.35,
+       "probability": 0.996968
+      },
+      {
+       "text": "for",
+       "start_time": 72.36,
+       "end_time": 72.54,
+       "probability": 0.997995
+      },
+      {
+       "text": "26",
+       "start_time": 72.54,
+       "end_time": 72.9,
+       "probability": 0.967228
+      },
+      {
+       "text": "continuous",
+       "start_time": 72.9,
+       "end_time": 73.17,
+       "probability": 0.995661
+      }
+     ],
+     "start_time": 68.94,
+     "end_time": 73.17
+    },
+    {
+     "index": 3,
+     "text": "years now, and so that is quite a drastic difference versus one space flight of humans",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "years",
+       "start_time": 73.63,
+       "end_time": 73.93,
+       "probability": 0.999489
+      },
+      {
+       "text": "now,",
+       "start_time": 73.93,
+       "end_time": 74.29,
+       "probability": 0.7226015
+      },
+      {
+       "text": "and",
+       "start_time": 74.29,
+       "end_time": 74.43,
+       "probability": 0.965554
+      },
+      {
+       "text": "so",
+       "start_time": 74.51,
+       "end_time": 74.65,
+       "probability": 0.993248
+      },
+      {
+       "text": "that",
+       "start_time": 74.65,
+       "end_time": 74.94,
+       "probability": 0.964012
+      },
+      {
+       "text": "is",
+       "start_time": 74.94,
+       "end_time": 75.08,
+       "probability": 0.998654
+      },
+      {
+       "text": "quite",
+       "start_time": 75.08,
+       "end_time": 75.45,
+       "probability": 0.997889
+      },
+      {
+       "text": "a",
+       "start_time": 75.45,
+       "end_time": 75.52,
+       "probability": 0.997101
+      },
+      {
+       "text": "drastic",
+       "start_time": 75.52,
+       "end_time": 76.04,
+       "probability": 0.999485
+      },
+      {
+       "text": "difference",
+       "start_time": 76.04,
+       "end_time": 76.78,
+       "probability": 0.995539
+      },
+      {
+       "text": "versus",
+       "start_time": 76.78,
+       "end_time": 77.2,
+       "probability": 0.914636
+      },
+      {
+       "text": "one",
+       "start_time": 77.21,
+       "end_time": 77.43,
+       "probability": 0.984414
+      },
+      {
+       "text": "space",
+       "start_time": 77.44,
+       "end_time": 77.81,
+       "probability": 0.994641
+      },
+      {
+       "text": "flight",
+       "start_time": 77.81,
+       "end_time": 78.09,
+       "probability": 0.959033
+      },
+      {
+       "text": "of",
+       "start_time": 78.29,
+       "end_time": 78.39,
+       "probability": 0.994708
+      },
+      {
+       "text": "humans",
+       "start_time": 78.39,
+       "end_time": 78.75,
+       "probability": 0.997466
+      }
+     ],
+     "start_time": 73.63,
+     "end_time": 78.75
+    },
+    {
+     "index": 4,
+     "text": "on Orion for 10 days.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "on",
+       "start_time": 78.99,
+       "end_time": 79.12,
+       "probability": 0.940363
+      },
+      {
+       "text": "Orion",
+       "start_time": 79.12,
+       "end_time": 79.61,
+       "probability": 0.995991
+      },
+      {
+       "text": "for",
+       "start_time": 79.62,
+       "end_time": 79.91,
+       "probability": 0.997238
+      },
+      {
+       "text": "10",
+       "start_time": 79.92,
+       "end_time": 80.52,
+       "probability": 0.809713
+      },
+      {
+       "text": "days.",
+       "start_time": 80.52,
+       "end_time": 81.22,
+       "probability": 0.9936725
+      }
+     ],
+     "start_time": 78.99,
+     "end_time": 81.22
+    },
+    {
+     "index": 5,
+     "text": "So very, very, very good point on we're building it as it's being flown.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "So",
+       "start_time": 81.31,
+       "end_time": 81.44,
+       "probability": 0.983082
+      },
+      {
+       "text": "very,",
+       "start_time": 81.44,
+       "end_time": 82.05,
+       "probability": 0.774402
+      },
+      {
+       "text": "very,",
+       "start_time": 82.05,
+       "end_time": 82.66,
+       "probability": 0.9481545
+      },
+      {
+       "text": "very",
+       "start_time": 82.66,
+       "end_time": 83.07,
+       "probability": 0.998795
+      },
+      {
+       "text": "good",
+       "start_time": 83.07,
+       "end_time": 83.48,
+       "probability": 0.991128
+      },
+      {
+       "text": "point",
+       "start_time": 83.48,
+       "end_time": 83.99,
+       "probability": 0.999462
+      },
+      {
+       "text": "on",
+       "start_time": 83.99,
+       "end_time": 84.08,
+       "probability": 0.988067
+      },
+      {
+       "text": "we're",
+       "start_time": 84.19,
+       "end_time": 84.67,
+       "probability": 0.90802
+      },
+      {
+       "text": "building",
+       "start_time": 84.69,
+       "end_time": 85.51,
+       "probability": 0.999302
+      },
+      {
+       "text": "it",
+       "start_time": 85.51,
+       "end_time": 85.71,
+       "probability": 0.994636
+      },
+      {
+       "text": "as",
+       "start_time": 85.71,
+       "end_time": 85.9,
+       "probability": 0.983303
+      },
+      {
+       "text": "it's",
+       "start_time": 85.97,
+       "end_time": 86.22,
+       "probability": 0.992646
+      },
+      {
+       "text": "being",
+       "start_time": 86.33,
+       "end_time": 86.82,
+       "probability": 0.994234
+      },
+      {
+       "text": "flown.",
+       "start_time": 86.82,
+       "end_time": 87.76,
+       "probability": 0.997107
+      }
+     ],
+     "start_time": 81.31,
+     "end_time": 87.76
+    },
+    {
+     "index": 6,
+     "text": "What is something that the public might be surprised to learn about from astronaut training",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "What",
+       "start_time": 87.83,
+       "end_time": 87.97,
+       "probability": 0.999275
+      },
+      {
+       "text": "is",
+       "start_time": 87.97,
+       "end_time": 88.07,
+       "probability": 0.993331
+      },
+      {
+       "text": "something",
+       "start_time": 88.07,
+       "end_time": 88.56,
+       "probability": 0.998548
+      },
+      {
+       "text": "that",
+       "start_time": 88.56,
+       "end_time": 88.77,
+       "probability": 0.992544
+      },
+      {
+       "text": "the",
+       "start_time": 88.77,
+       "end_time": 88.89,
+       "probability": 0.999481
+      },
+      {
+       "text": "public",
+       "start_time": 88.99,
+       "end_time": 89.25,
+       "probability": 0.999592
+      },
+      {
+       "text": "might",
+       "start_time": 89.25,
+       "end_time": 89.5,
+       "probability": 0.99843
+      },
+      {
+       "text": "be",
+       "start_time": 89.56,
+       "end_time": 89.62,
+       "probability": 0.99931
+      },
+      {
+       "text": "surprised",
+       "start_time": 89.62,
+       "end_time": 90.06,
+       "probability": 0.999363
+      },
+      {
+       "text": "to",
+       "start_time": 90.11,
+       "end_time": 90.21,
+       "probability": 0.999043
+      },
+      {
+       "text": "learn",
+       "start_time": 90.21,
+       "end_time": 90.48,
+       "probability": 0.99918
+      },
+      {
+       "text": "about",
+       "start_time": 90.48,
+       "end_time": 90.75,
+       "probability": 0.99915
+      },
+      {
+       "text": "from",
+       "start_time": 90.75,
+       "end_time": 90.96,
+       "probability": 0.995949
+      },
+      {
+       "text": "astronaut",
+       "start_time": 90.96,
+       "end_time": 91.45,
+       "probability": 0.993661
+      },
+      {
+       "text": "training",
+       "start_time": 91.45,
+       "end_time": 91.96,
+       "probability": 0.999077
+      }
+     ],
+     "start_time": 87.83,
+     "end_time": 91.96
+    },
+    {
+     "index": 7,
+     "text": "for Artemis missions?",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "for",
+       "start_time": 92.03,
+       "end_time": 92.31,
+       "probability": 0.998746
+      },
+      {
+       "text": "Artemis",
+       "start_time": 92.31,
+       "end_time": 93.09,
+       "probability": 0.996742
+      },
+      {
+       "text": "missions?",
+       "start_time": 93.19,
+       "end_time": 94.52,
+       "probability": 0.9899555
+      }
+     ],
+     "start_time": 92.03,
+     "end_time": 94.52
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "speaker_id": 1,
+   "is_nonspeech": false,
+   "start_time": 94.59,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "I think the most surprising thing is how little of our training I want them to use in flight.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "I",
+       "start_time": 94.59,
+       "end_time": 94.6,
+       "probability": 0.997931
+      },
+      {
+       "text": "think",
+       "start_time": 94.6,
+       "end_time": 94.97,
+       "probability": 0.999836
+      },
+      {
+       "text": "the",
+       "start_time": 94.99,
+       "end_time": 95.21,
+       "probability": 0.998365
+      },
+      {
+       "text": "most",
+       "start_time": 95.22,
+       "end_time": 95.53,
+       "probability": 0.998494
+      },
+      {
+       "text": "surprising",
+       "start_time": 95.53,
+       "end_time": 96.28,
+       "probability": 0.999802
+      },
+      {
+       "text": "thing",
+       "start_time": 96.31,
+       "end_time": 96.69,
+       "probability": 0.998814
+      },
+      {
+       "text": "is",
+       "start_time": 96.69,
+       "end_time": 96.82,
+       "probability": 0.999165
+      },
+      {
+       "text": "how",
+       "start_time": 96.87,
+       "end_time": 97.09,
+       "probability": 0.996911
+      },
+      {
+       "text": "little",
+       "start_time": 97.09,
+       "end_time": 97.56,
+       "probability": 0.999645
+      },
+      {
+       "text": "of",
+       "start_time": 97.56,
+       "end_time": 97.71,
+       "probability": 0.99963
+      },
+      {
+       "text": "our",
+       "start_time": 97.71,
+       "end_time": 97.92,
+       "probability": 0.999428
+      },
+      {
+       "text": "training",
+       "start_time": 97.94,
+       "end_time": 98.57,
+       "probability": 0.999767
+      },
+      {
+       "text": "I",
+       "start_time": 98.57,
+       "end_time": 98.65,
+       "probability": 0.99598
+      },
+      {
+       "text": "want",
+       "start_time": 98.65,
+       "end_time": 98.81,
+       "probability": 0.99934
+      },
+      {
+       "text": "them",
+       "start_time": 99.05,
+       "end_time": 99.27,
+       "probability": 0.999005
+      },
+      {
+       "text": "to",
+       "start_time": 99.27,
+       "end_time": 99.42,
+       "probability": 0.999531
+      },
+      {
+       "text": "use",
+       "start_time": 99.42,
+       "end_time": 99.64,
+       "probability": 0.999413
+      },
+      {
+       "text": "in",
+       "start_time": 99.64,
+       "end_time": 99.74,
+       "probability": 0.972811
+      },
+      {
+       "text": "flight.",
+       "start_time": 99.89,
+       "end_time": 100.64,
+       "probability": 0.9849965
+      }
+     ],
+     "start_time": 94.59,
+     "end_time": 100.64
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "speaker_id": 2,
+   "is_nonspeech": false,
+   "start_time": 100.71,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "That's a good point.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "That's",
+       "start_time": 100.71,
+       "end_time": 101.06,
+       "probability": 0.988807
+      },
+      {
+       "text": "a",
+       "start_time": 101.06,
+       "end_time": 101.13,
+       "probability": 0.998883
+      },
+      {
+       "text": "good",
+       "start_time": 101.13,
+       "end_time": 101.39,
+       "probability": 0.999321
+      },
+      {
+       "text": "point.",
+       "start_time": 101.41,
+       "end_time": 102.0,
+       "probability": 0.9959089999999999
+      }
+     ],
+     "start_time": 100.71,
+     "end_time": 102.0
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "speaker_id": 1,
+   "is_nonspeech": false,
+   "start_time": 102.07,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "Like we spend most of our time training worst case scenarios, different failure things that",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "Like",
+       "start_time": 102.07,
+       "end_time": 102.24,
+       "probability": 0.863588
+      },
+      {
+       "text": "we",
+       "start_time": 102.29,
+       "end_time": 102.42,
+       "probability": 0.986177
+      },
+      {
+       "text": "spend",
+       "start_time": 102.42,
+       "end_time": 102.75,
+       "probability": 0.855553
+      },
+      {
+       "text": "most",
+       "start_time": 102.77,
+       "end_time": 103.04,
+       "probability": 0.997881
+      },
+      {
+       "text": "of",
+       "start_time": 103.05,
+       "end_time": 103.13,
+       "probability": 0.999359
+      },
+      {
+       "text": "our",
+       "start_time": 103.23,
+       "end_time": 103.4,
+       "probability": 0.997695
+      },
+      {
+       "text": "time",
+       "start_time": 103.4,
+       "end_time": 103.68,
+       "probability": 0.999024
+      },
+      {
+       "text": "training",
+       "start_time": 103.68,
+       "end_time": 104.24,
+       "probability": 0.99878
+      },
+      {
+       "text": "worst",
+       "start_time": 104.24,
+       "end_time": 104.59,
+       "probability": 0.761643
+      },
+      {
+       "text": "case",
+       "start_time": 104.59,
+       "end_time": 104.84,
+       "probability": 0.782852
+      },
+      {
+       "text": "scenarios,",
+       "start_time": 104.95,
+       "end_time": 105.64,
+       "probability": 0.97474
+      },
+      {
+       "text": "different",
+       "start_time": 105.64,
+       "end_time": 106.27,
+       "probability": 0.996398
+      },
+      {
+       "text": "failure",
+       "start_time": 106.27,
+       "end_time": 106.76,
+       "probability": 0.990599
+      },
+      {
+       "text": "things",
+       "start_time": 106.76,
+       "end_time": 107.17,
+       "probability": 0.954432
+      },
+      {
+       "text": "that",
+       "start_time": 107.18,
+       "end_time": 107.52,
+       "probability": 0.995547
+      }
+     ],
+     "start_time": 102.07,
+     "end_time": 107.52
+    },
+    {
+     "index": 2,
+     "text": "could go wrong, and ideally nothing.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "could",
+       "start_time": 107.59,
+       "end_time": 107.86,
+       "probability": 0.719715
+      },
+      {
+       "text": "go",
+       "start_time": 107.86,
+       "end_time": 107.97,
+       "probability": 0.999249
+      },
+      {
+       "text": "wrong,",
+       "start_time": 107.99,
+       "end_time": 108.39,
+       "probability": 0.742486
+      },
+      {
+       "text": "and",
+       "start_time": 108.47,
+       "end_time": 108.65,
+       "probability": 0.998437
+      },
+      {
+       "text": "ideally",
+       "start_time": 108.75,
+       "end_time": 109.13,
+       "probability": 0.994488
+      },
+      {
+       "text": "nothing.",
+       "start_time": 109.13,
+       "end_time": 109.82,
+       "probability": 0.885006
+      }
+     ],
+     "start_time": 107.59,
+     "end_time": 109.82
+    },
+    {
+     "index": 3,
+     "text": "Yeah.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "Yeah.",
+       "start_time": 109.91,
+       "end_time": 110.83,
+       "probability": 0.9203144999999999
+      }
+     ],
+     "start_time": 109.91,
+     "end_time": 110.83
+    },
+    {
+     "index": 4,
+     "text": "I mean, the most phenomenal happens during the mission.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "I",
+       "start_time": 110.9,
+       "end_time": 110.9,
+       "probability": 0.116611
+      },
+      {
+       "text": "mean,",
+       "start_time": 110.91,
+       "end_time": 111.24,
+       "probability": 0.6283935
+      },
+      {
+       "text": "the",
+       "start_time": 111.24,
+       "end_time": 111.41,
+       "probability": 0.105227
+      },
+      {
+       "text": "most",
+       "start_time": 111.41,
+       "end_time": 111.64,
+       "probability": 0.293746
+      },
+      {
+       "text": "phenomenal",
+       "start_time": 111.64,
+       "end_time": 112.23,
+       "probability": 0.792009
+      },
+      {
+       "text": "happens",
+       "start_time": 112.23,
+       "end_time": 112.59,
+       "probability": 0.982549
+      },
+      {
+       "text": "during",
+       "start_time": 112.64,
+       "end_time": 112.98,
+       "probability": 0.999032
+      },
+      {
+       "text": "the",
+       "start_time": 112.98,
+       "end_time": 113.15,
+       "probability": 0.99875
+      },
+      {
+       "text": "mission.",
+       "start_time": 113.19,
+       "end_time": 113.82,
+       "probability": 0.9042654999999999
+      }
+     ],
+     "start_time": 110.9,
+     "end_time": 113.82
+    },
+    {
+     "index": 5,
+     "text": "But by practicing all of those failures, they're learning the process, they're working as a",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "But",
+       "start_time": 113.89,
+       "end_time": 113.98,
+       "probability": 0.999275
+      },
+      {
+       "text": "by",
+       "start_time": 113.98,
+       "end_time": 114.06,
+       "probability": 0.998902
+      },
+      {
+       "text": "practicing",
+       "start_time": 114.11,
+       "end_time": 114.65,
+       "probability": 0.996276
+      },
+      {
+       "text": "all",
+       "start_time": 114.65,
+       "end_time": 114.81,
+       "probability": 0.997916
+      },
+      {
+       "text": "of",
+       "start_time": 114.81,
+       "end_time": 114.92,
+       "probability": 0.987837
+      },
+      {
+       "text": "those",
+       "start_time": 114.92,
+       "end_time": 115.2,
+       "probability": 0.998662
+      },
+      {
+       "text": "failures,",
+       "start_time": 115.2,
+       "end_time": 115.76,
+       "probability": 0.9583269999999999
+      },
+      {
+       "text": "they're",
+       "start_time": 115.76,
+       "end_time": 116.13,
+       "probability": 0.9964554999999999
+      },
+      {
+       "text": "learning",
+       "start_time": 116.17,
+       "end_time": 116.59,
+       "probability": 0.999493
+      },
+      {
+       "text": "the",
+       "start_time": 116.59,
+       "end_time": 116.66,
+       "probability": 0.969233
+      },
+      {
+       "text": "process,",
+       "start_time": 116.77,
+       "end_time": 117.25,
+       "probability": 0.8010565000000001
+      },
+      {
+       "text": "they're",
+       "start_time": 117.25,
+       "end_time": 117.61,
+       "probability": 0.9979039999999999
+      },
+      {
+       "text": "working",
+       "start_time": 117.63,
+       "end_time": 118.09,
+       "probability": 0.995786
+      },
+      {
+       "text": "as",
+       "start_time": 118.1,
+       "end_time": 118.11,
+       "probability": 0.982519
+      },
+      {
+       "text": "a",
+       "start_time": 118.55,
+       "end_time": 118.84,
+       "probability": 0.91145
+      }
+     ],
+     "start_time": 113.89,
+     "end_time": 118.84
+    },
+    {
+     "index": 6,
+     "text": "team.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "team.",
+       "start_time": 118.91,
+       "end_time": 119.83,
+       "probability": 0.8682829999999999
+      }
+     ],
+     "start_time": 118.91,
+     "end_time": 119.83
+    },
+    {
+     "index": 7,
+     "text": "There's a lot of skills that are applicable, but the exact scenarios we train, I hope they",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "There's",
+       "start_time": 119.91,
+       "end_time": 120.15,
+       "probability": 0.9866355
+      },
+      {
+       "text": "a",
+       "start_time": 120.15,
+       "end_time": 120.18,
+       "probability": 0.999127
+      },
+      {
+       "text": "lot",
+       "start_time": 120.19,
+       "end_time": 120.32,
+       "probability": 0.99987
+      },
+      {
+       "text": "of",
+       "start_time": 120.32,
+       "end_time": 120.41,
+       "probability": 0.999504
+      },
+      {
+       "text": "skills",
+       "start_time": 120.41,
+       "end_time": 120.68,
+       "probability": 0.99859
+      },
+      {
+       "text": "that",
+       "start_time": 120.68,
+       "end_time": 120.86,
+       "probability": 0.999653
+      },
+      {
+       "text": "are",
+       "start_time": 120.86,
+       "end_time": 120.97,
+       "probability": 0.99955
+      },
+      {
+       "text": "applicable,",
+       "start_time": 121.07,
+       "end_time": 121.53,
+       "probability": 0.8586385
+      },
+      {
+       "text": "but",
+       "start_time": 121.53,
+       "end_time": 121.66,
+       "probability": 0.999264
+      },
+      {
+       "text": "the",
+       "start_time": 121.66,
+       "end_time": 121.79,
+       "probability": 0.92763
+      },
+      {
+       "text": "exact",
+       "start_time": 121.79,
+       "end_time": 122.01,
+       "probability": 0.999592
+      },
+      {
+       "text": "scenarios",
+       "start_time": 122.01,
+       "end_time": 122.41,
+       "probability": 0.984256
+      },
+      {
+       "text": "we",
+       "start_time": 122.41,
+       "end_time": 122.43,
+       "probability": 0.995148
+      },
+      {
+       "text": "train,",
+       "start_time": 122.53,
+       "end_time": 122.81,
+       "probability": 0.9138755000000001
+      },
+      {
+       "text": "I",
+       "start_time": 122.81,
+       "end_time": 122.85,
+       "probability": 0.999706
+      },
+      {
+       "text": "hope",
+       "start_time": 122.85,
+       "end_time": 123.03,
+       "probability": 0.999569
+      },
+      {
+       "text": "they",
+       "start_time": 123.03,
+       "end_time": 123.27,
+       "probability": 0.995771
+      }
+     ],
+     "start_time": 119.91,
+     "end_time": 123.27
+    },
+    {
+     "index": 8,
+     "text": "never use it.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "never",
+       "start_time": 123.35,
+       "end_time": 123.73,
+       "probability": 0.999855
+      },
+      {
+       "text": "use",
+       "start_time": 123.75,
+       "end_time": 124.01,
+       "probability": 0.998883
+      },
+      {
+       "text": "it.",
+       "start_time": 124.01,
+       "end_time": 124.41,
+       "probability": 0.9979615
+      }
+     ],
+     "start_time": 123.35,
+     "end_time": 124.41
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "speaker_id": 2,
+   "is_nonspeech": false,
+   "start_time": 124.55,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "Yeah.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "Yeah.",
+       "start_time": 124.55,
+       "end_time": 125.47,
+       "probability": 0.817088
+      }
+     ],
+     "start_time": 124.55,
+     "end_time": 125.47
+    },
+    {
+     "index": 2,
+     "text": "No, that's a great point because I mean, there's so much work that goes into preventing a really",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "No,",
+       "start_time": 125.55,
+       "end_time": 125.72,
+       "probability": 0.9048535
+      },
+      {
+       "text": "that's",
+       "start_time": 125.77,
+       "end_time": 126.11,
+       "probability": 0.9994395
+      },
+      {
+       "text": "a",
+       "start_time": 126.11,
+       "end_time": 126.17,
+       "probability": 0.999302
+      },
+      {
+       "text": "great",
+       "start_time": 126.17,
+       "end_time": 126.49,
+       "probability": 0.999504
+      },
+      {
+       "text": "point",
+       "start_time": 126.49,
+       "end_time": 126.81,
+       "probability": 0.999687
+      },
+      {
+       "text": "because",
+       "start_time": 126.81,
+       "end_time": 127.23,
+       "probability": 0.677926
+      },
+      {
+       "text": "I",
+       "start_time": 127.28,
+       "end_time": 127.32,
+       "probability": 0.507778
+      },
+      {
+       "text": "mean,",
+       "start_time": 127.32,
+       "end_time": 127.7,
+       "probability": 0.847511
+      },
+      {
+       "text": "there's",
+       "start_time": 127.7,
+       "end_time": 128.07,
+       "probability": 0.9764695
+      },
+      {
+       "text": "so",
+       "start_time": 128.17,
+       "end_time": 128.27,
+       "probability": 0.945334
+      },
+      {
+       "text": "much",
+       "start_time": 128.27,
+       "end_time": 128.53,
+       "probability": 0.99984
+      },
+      {
+       "text": "work",
+       "start_time": 128.53,
+       "end_time": 128.79,
+       "probability": 0.999458
+      },
+      {
+       "text": "that",
+       "start_time": 128.79,
+       "end_time": 129.05,
+       "probability": 0.998978
+      },
+      {
+       "text": "goes",
+       "start_time": 129.05,
+       "end_time": 129.31,
+       "probability": 0.999592
+      },
+      {
+       "text": "into",
+       "start_time": 129.31,
+       "end_time": 129.57,
+       "probability": 0.997626
+      },
+      {
+       "text": "preventing",
+       "start_time": 129.57,
+       "end_time": 130.3,
+       "probability": 0.998224
+      },
+      {
+       "text": "a",
+       "start_time": 130.3,
+       "end_time": 130.36,
+       "probability": 0.967228
+      },
+      {
+       "text": "really",
+       "start_time": 130.36,
+       "end_time": 130.67,
+       "probability": 0.999569
+      }
+     ],
+     "start_time": 125.55,
+     "end_time": 130.67
+    },
+    {
+     "index": 3,
+     "text": "bad day and preparing for a really bad day.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "bad",
+       "start_time": 130.83,
+       "end_time": 131.0,
+       "probability": 0.999874
+      },
+      {
+       "text": "day",
+       "start_time": 131.05,
+       "end_time": 131.3,
+       "probability": 0.9995
+      },
+      {
+       "text": "and",
+       "start_time": 131.3,
+       "end_time": 131.57,
+       "probability": 0.971217
+      },
+      {
+       "text": "preparing",
+       "start_time": 131.57,
+       "end_time": 132.4,
+       "probability": 0.999028
+      },
+      {
+       "text": "for",
+       "start_time": 132.4,
+       "end_time": 132.67,
+       "probability": 0.99947
+      },
+      {
+       "text": "a",
+       "start_time": 132.67,
+       "end_time": 132.75,
+       "probability": 0.999554
+      },
+      {
+       "text": "really",
+       "start_time": 132.89,
+       "end_time": 133.31,
+       "probability": 0.999825
+      },
+      {
+       "text": "bad",
+       "start_time": 133.31,
+       "end_time": 133.58,
+       "probability": 0.999672
+      },
+      {
+       "text": "day.",
+       "start_time": 133.58,
+       "end_time": 134.19,
+       "probability": 0.860154
+      }
+     ],
+     "start_time": 130.83,
+     "end_time": 134.19
+    },
+    {
+     "index": 4,
+     "text": "And everybody's hope is that, \"Hey, I'm working on this thing that you never touch or that",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "And",
+       "start_time": 134.27,
+       "end_time": 134.38,
+       "probability": 0.999207
+      },
+      {
+       "text": "everybody's",
+       "start_time": 134.38,
+       "end_time": 135.05,
+       "probability": 0.9991495
+      },
+      {
+       "text": "hope",
+       "start_time": 135.06,
+       "end_time": 135.31,
+       "probability": 0.999371
+      },
+      {
+       "text": "is",
+       "start_time": 135.31,
+       "end_time": 135.43,
+       "probability": 0.999561
+      },
+      {
+       "text": "that,",
+       "start_time": 135.43,
+       "end_time": 135.8,
+       "probability": 0.942502
+      },
+      {
+       "text": "\"Hey,",
+       "start_time": 135.8,
+       "end_time": 136.16,
+       "probability": 0.8235169999999999
+      },
+      {
+       "text": "I'm",
+       "start_time": 136.16,
+       "end_time": 136.34,
+       "probability": 0.999788
+      },
+      {
+       "text": "working",
+       "start_time": 136.34,
+       "end_time": 136.77,
+       "probability": 0.999455
+      },
+      {
+       "text": "on",
+       "start_time": 136.77,
+       "end_time": 136.79,
+       "probability": 0.999325
+      },
+      {
+       "text": "this",
+       "start_time": 136.89,
+       "end_time": 137.04,
+       "probability": 0.998986
+      },
+      {
+       "text": "thing",
+       "start_time": 137.15,
+       "end_time": 137.44,
+       "probability": 0.999291
+      },
+      {
+       "text": "that",
+       "start_time": 137.45,
+       "end_time": 137.7,
+       "probability": 0.997813
+      },
+      {
+       "text": "you",
+       "start_time": 137.7,
+       "end_time": 137.88,
+       "probability": 0.999603
+      },
+      {
+       "text": "never",
+       "start_time": 137.88,
+       "end_time": 138.15,
+       "probability": 0.998887
+      },
+      {
+       "text": "touch",
+       "start_time": 138.2,
+       "end_time": 138.49,
+       "probability": 0.995573
+      },
+      {
+       "text": "or",
+       "start_time": 138.58,
+       "end_time": 138.65,
+       "probability": 0.792412
+      },
+      {
+       "text": "that",
+       "start_time": 138.65,
+       "end_time": 138.8,
+       "probability": 0.991934
+      }
+     ],
+     "start_time": 134.27,
+     "end_time": 138.8
+    },
+    {
+     "index": 5,
+     "text": "you never have to call to mind,\" which is such a funny thing, but it gives people peace",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "you",
+       "start_time": 138.87,
+       "end_time": 139.02,
+       "probability": 0.996405
+      },
+      {
+       "text": "never",
+       "start_time": 139.02,
+       "end_time": 139.38,
+       "probability": 0.998308
+      },
+      {
+       "text": "have",
+       "start_time": 139.38,
+       "end_time": 139.66,
+       "probability": 0.999428
+      },
+      {
+       "text": "to",
+       "start_time": 139.66,
+       "end_time": 139.81,
+       "probability": 0.998921
+      },
+      {
+       "text": "call",
+       "start_time": 139.81,
+       "end_time": 140.07,
+       "probability": 0.998822
+      },
+      {
+       "text": "to",
+       "start_time": 140.13,
+       "end_time": 140.24,
+       "probability": 0.992203
+      },
+      {
+       "text": "mind,\"",
+       "start_time": 140.24,
+       "end_time": 140.75,
+       "probability": 0.8306484999999999
+      },
+      {
+       "text": "which",
+       "start_time": 140.75,
+       "end_time": 141.1,
+       "probability": 0.996352
+      },
+      {
+       "text": "is",
+       "start_time": 141.15,
+       "end_time": 141.25,
+       "probability": 0.998852
+      },
+      {
+       "text": "such",
+       "start_time": 141.25,
+       "end_time": 141.54,
+       "probability": 0.976261
+      },
+      {
+       "text": "a",
+       "start_time": 141.54,
+       "end_time": 141.61,
+       "probability": 0.99899
+      },
+      {
+       "text": "funny",
+       "start_time": 141.61,
+       "end_time": 141.97,
+       "probability": 0.995676
+      },
+      {
+       "text": "thing,",
+       "start_time": 141.97,
+       "end_time": 142.47,
+       "probability": 0.7178215
+      },
+      {
+       "text": "but",
+       "start_time": 142.47,
+       "end_time": 142.69,
+       "probability": 0.935808
+      },
+      {
+       "text": "it",
+       "start_time": 142.69,
+       "end_time": 142.83,
+       "probability": 0.998121
+      },
+      {
+       "text": "gives",
+       "start_time": 142.83,
+       "end_time": 143.09,
+       "probability": 0.99854
+      },
+      {
+       "text": "people",
+       "start_time": 143.53,
+       "end_time": 143.63,
+       "probability": 0.99859
+      },
+      {
+       "text": "peace",
+       "start_time": 143.63,
+       "end_time": 143.99,
+       "probability": 0.968038
+      }
+     ],
+     "start_time": 138.87,
+     "end_time": 143.99
+    },
+    {
+     "index": 6,
+     "text": "of mind.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "of",
+       "start_time": 144.19,
+       "end_time": 144.34,
+       "probability": 0.999825
+      },
+      {
+       "text": "mind.",
+       "start_time": 144.34,
+       "end_time": 145.11,
+       "probability": 0.622122
+      }
+     ],
+     "start_time": 144.19,
+     "end_time": 145.11
+    },
+    {
+     "index": 7,
+     "text": "And it gives you confidence in the mission and it gives the crew confidence in the spacecraft",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "And",
+       "start_time": 145.19,
+       "end_time": 145.24,
+       "probability": 0.970895
+      },
+      {
+       "text": "it",
+       "start_time": 145.24,
+       "end_time": 145.32,
+       "probability": 0.998635
+      },
+      {
+       "text": "gives",
+       "start_time": 145.32,
+       "end_time": 145.52,
+       "probability": 0.998974
+      },
+      {
+       "text": "you",
+       "start_time": 145.52,
+       "end_time": 145.64,
+       "probability": 0.999195
+      },
+      {
+       "text": "confidence",
+       "start_time": 145.64,
+       "end_time": 145.98,
+       "probability": 0.998696
+      },
+      {
+       "text": "in",
+       "start_time": 146.08,
+       "end_time": 146.11,
+       "probability": 0.999184
+      },
+      {
+       "text": "the",
+       "start_time": 146.11,
+       "end_time": 146.24,
+       "probability": 0.999653
+      },
+      {
+       "text": "mission",
+       "start_time": 146.24,
+       "end_time": 146.52,
+       "probability": 0.999638
+      },
+      {
+       "text": "and",
+       "start_time": 146.52,
+       "end_time": 146.64,
+       "probability": 0.509913
+      },
+      {
+       "text": "it",
+       "start_time": 146.64,
+       "end_time": 146.72,
+       "probability": 0.952545
+      },
+      {
+       "text": "gives",
+       "start_time": 146.72,
+       "end_time": 146.87,
+       "probability": 0.99891
+      },
+      {
+       "text": "the",
+       "start_time": 146.92,
+       "end_time": 147.04,
+       "probability": 0.999542
+      },
+      {
+       "text": "crew",
+       "start_time": 147.04,
+       "end_time": 147.11,
+       "probability": 0.999455
+      },
+      {
+       "text": "confidence",
+       "start_time": 147.25,
+       "end_time": 147.6,
+       "probability": 0.996892
+      },
+      {
+       "text": "in",
+       "start_time": 147.6,
+       "end_time": 147.68,
+       "probability": 0.997995
+      },
+      {
+       "text": "the",
+       "start_time": 147.68,
+       "end_time": 147.71,
+       "probability": 0.998376
+      },
+      {
+       "text": "spacecraft",
+       "start_time": 147.81,
+       "end_time": 148.24,
+       "probability": 0.997212
+      }
+     ],
+     "start_time": 145.19,
+     "end_time": 148.24
+    },
+    {
+     "index": 8,
+     "text": "and the ground teams knowing that every single little item has been worked through.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "and",
+       "start_time": 148.31,
+       "end_time": 148.44,
+       "probability": 0.986086
+      },
+      {
+       "text": "the",
+       "start_time": 148.44,
+       "end_time": 148.64,
+       "probability": 0.992805
+      },
+      {
+       "text": "ground",
+       "start_time": 148.64,
+       "end_time": 149.04,
+       "probability": 0.999777
+      },
+      {
+       "text": "teams",
+       "start_time": 149.04,
+       "end_time": 149.37,
+       "probability": 0.990214
+      },
+      {
+       "text": "knowing",
+       "start_time": 149.47,
+       "end_time": 149.85,
+       "probability": 0.848514
+      },
+      {
+       "text": "that",
+       "start_time": 149.85,
+       "end_time": 150.12,
+       "probability": 0.986685
+      },
+      {
+       "text": "every",
+       "start_time": 150.12,
+       "end_time": 150.46,
+       "probability": 0.999157
+      },
+      {
+       "text": "single",
+       "start_time": 150.46,
+       "end_time": 150.85,
+       "probability": 0.999439
+      },
+      {
+       "text": "little",
+       "start_time": 150.93,
+       "end_time": 151.26,
+       "probability": 0.997493
+      },
+      {
+       "text": "item",
+       "start_time": 151.26,
+       "end_time": 151.53,
+       "probability": 0.998944
+      },
+      {
+       "text": "has",
+       "start_time": 151.53,
+       "end_time": 151.72,
+       "probability": 0.998841
+      },
+      {
+       "text": "been",
+       "start_time": 151.72,
+       "end_time": 151.96,
+       "probability": 0.999672
+      },
+      {
+       "text": "worked",
+       "start_time": 152.0,
+       "end_time": 152.4,
+       "probability": 0.998719
+      },
+      {
+       "text": "through.",
+       "start_time": 152.4,
+       "end_time": 153.16,
+       "probability": 0.9905375000000001
+      }
+     ],
+     "start_time": 148.31,
+     "end_time": 153.16
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "speaker_id": 2,
+   "is_nonspeech": false,
+   "start_time": 153.23,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "That's a very, very funny and great point, hoping that they never have to call back what",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "That's",
+       "start_time": 153.23,
+       "end_time": 153.64,
+       "probability": 0.9997845000000001
+      },
+      {
+       "text": "a",
+       "start_time": 153.64,
+       "end_time": 153.72,
+       "probability": 0.989817
+      },
+      {
+       "text": "very,",
+       "start_time": 153.72,
+       "end_time": 154.2,
+       "probability": 0.9875885
+      },
+      {
+       "text": "very",
+       "start_time": 154.2,
+       "end_time": 154.52,
+       "probability": 0.999886
+      },
+      {
+       "text": "funny",
+       "start_time": 154.52,
+       "end_time": 154.91,
+       "probability": 0.996995
+      },
+      {
+       "text": "and",
+       "start_time": 154.92,
+       "end_time": 155.15,
+       "probability": 0.989421
+      },
+      {
+       "text": "great",
+       "start_time": 155.29,
+       "end_time": 155.56,
+       "probability": 0.956765
+      },
+      {
+       "text": "point,",
+       "start_time": 155.56,
+       "end_time": 156.12,
+       "probability": 0.642711
+      },
+      {
+       "text": "hoping",
+       "start_time": 156.12,
+       "end_time": 156.59,
+       "probability": 0.961313
+      },
+      {
+       "text": "that",
+       "start_time": 156.61,
+       "end_time": 156.88,
+       "probability": 0.999336
+      },
+      {
+       "text": "they",
+       "start_time": 156.92,
+       "end_time": 157.24,
+       "probability": 0.999794
+      },
+      {
+       "text": "never",
+       "start_time": 157.24,
+       "end_time": 157.45,
+       "probability": 0.998529
+      },
+      {
+       "text": "have",
+       "start_time": 157.89,
+       "end_time": 157.96,
+       "probability": 0.999645
+      },
+      {
+       "text": "to",
+       "start_time": 157.96,
+       "end_time": 158.12,
+       "probability": 0.9987
+      },
+      {
+       "text": "call",
+       "start_time": 158.12,
+       "end_time": 158.35,
+       "probability": 0.984925
+      },
+      {
+       "text": "back",
+       "start_time": 158.53,
+       "end_time": 158.76,
+       "probability": 0.998479
+      },
+      {
+       "text": "what",
+       "start_time": 158.76,
+       "end_time": 159.18,
+       "probability": 0.989829
+      }
+     ],
+     "start_time": 153.23,
+     "end_time": 159.18
+    },
+    {
+     "index": 2,
+     "text": "it's like to execute a fire response or something like that.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "it's",
+       "start_time": 159.27,
+       "end_time": 159.44,
+       "probability": 0.9993785
+      },
+      {
+       "text": "like",
+       "start_time": 159.44,
+       "end_time": 159.69,
+       "probability": 0.99931
+      },
+      {
+       "text": "to",
+       "start_time": 159.69,
+       "end_time": 159.81,
+       "probability": 0.999779
+      },
+      {
+       "text": "execute",
+       "start_time": 159.81,
+       "end_time": 160.24,
+       "probability": 0.998186
+      },
+      {
+       "text": "a",
+       "start_time": 160.25,
+       "end_time": 160.31,
+       "probability": 0.996554
+      },
+      {
+       "text": "fire",
+       "start_time": 160.31,
+       "end_time": 160.56,
+       "probability": 0.977415
+      },
+      {
+       "text": "response",
+       "start_time": 160.56,
+       "end_time": 161.06,
+       "probability": 0.994473
+      },
+      {
+       "text": "or",
+       "start_time": 161.06,
+       "end_time": 161.18,
+       "probability": 0.99089
+      },
+      {
+       "text": "something",
+       "start_time": 161.18,
+       "end_time": 161.74,
+       "probability": 0.999847
+      },
+      {
+       "text": "like",
+       "start_time": 161.74,
+       "end_time": 161.99,
+       "probability": 0.998136
+      },
+      {
+       "text": "that.",
+       "start_time": 161.99,
+       "end_time": 162.48,
+       "probability": 0.998209
+      }
+     ],
+     "start_time": 159.27,
+     "end_time": 162.48
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "speaker_id": 1,
+   "is_nonspeech": false,
+   "start_time": 162.55,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "Yep, exactly.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "Yep,",
+       "start_time": 162.55,
+       "end_time": 163.11,
+       "probability": 0.6508575
+      },
+      {
+       "text": "exactly.",
+       "start_time": 163.11,
+       "end_time": 164.4,
+       "probability": 0.9986395
+      }
+     ],
+     "start_time": 162.55,
+     "end_time": 164.4
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "speaker_id": 2,
+   "is_nonspeech": false,
+   "start_time": 164.47,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "Tell me about training so far.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "Tell",
+       "start_time": 164.47,
+       "end_time": 164.74,
+       "probability": 0.949446
+      },
+      {
+       "text": "me",
+       "start_time": 164.74,
+       "end_time": 164.91,
+       "probability": 0.999821
+      },
+      {
+       "text": "about",
+       "start_time": 164.91,
+       "end_time": 165.26,
+       "probability": 0.999661
+      },
+      {
+       "text": "training",
+       "start_time": 165.36,
+       "end_time": 166.01,
+       "probability": 0.997778
+      },
+      {
+       "text": "so",
+       "start_time": 166.01,
+       "end_time": 166.14,
+       "probability": 0.992725
+      },
+      {
+       "text": "far.",
+       "start_time": 166.2,
+       "end_time": 166.7,
+       "probability": 0.9950985
+      }
+     ],
+     "start_time": 164.47,
+     "end_time": 166.7
+    },
+    {
+     "index": 2,
+     "text": "Is there a moment that has stood out to you just in some way?",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "Is",
+       "start_time": 166.79,
+       "end_time": 166.91,
+       "probability": 0.997771
+      },
+      {
+       "text": "there",
+       "start_time": 166.91,
+       "end_time": 167.4,
+       "probability": 0.999321
+      },
+      {
+       "text": "a",
+       "start_time": 167.4,
+       "end_time": 167.47,
+       "probability": 0.998517
+      },
+      {
+       "text": "moment",
+       "start_time": 167.49,
+       "end_time": 168.07,
+       "probability": 0.999794
+      },
+      {
+       "text": "that",
+       "start_time": 168.07,
+       "end_time": 168.46,
+       "probability": 0.999584
+      },
+      {
+       "text": "has",
+       "start_time": 168.46,
+       "end_time": 168.71,
+       "probability": 0.997603
+      },
+      {
+       "text": "stood",
+       "start_time": 168.85,
+       "end_time": 169.24,
+       "probability": 0.999321
+      },
+      {
+       "text": "out",
+       "start_time": 169.24,
+       "end_time": 169.53,
+       "probability": 0.999093
+      },
+      {
+       "text": "to",
+       "start_time": 169.53,
+       "end_time": 169.72,
+       "probability": 0.999405
+      },
+      {
+       "text": "you",
+       "start_time": 169.72,
+       "end_time": 170.01,
+       "probability": 0.999333
+      },
+      {
+       "text": "just",
+       "start_time": 170.01,
+       "end_time": 170.4,
+       "probability": 0.750894
+      },
+      {
+       "text": "in",
+       "start_time": 170.4,
+       "end_time": 170.59,
+       "probability": 0.995163
+      },
+      {
+       "text": "some",
+       "start_time": 170.59,
+       "end_time": 170.98,
+       "probability": 0.986274
+      },
+      {
+       "text": "way?",
+       "start_time": 170.98,
+       "end_time": 171.64,
+       "probability": 0.7692185
+      }
+     ],
+     "start_time": 166.79,
+     "end_time": 171.64
+    },
+    {
+     "index": 3,
+     "text": "If it's good, if it's challenging, anything unexpected yet?",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "If",
+       "start_time": 171.71,
+       "end_time": 171.79,
+       "probability": 0.99698
+      },
+      {
+       "text": "it's",
+       "start_time": 171.79,
+       "end_time": 172.09,
+       "probability": 0.9996075
+      },
+      {
+       "text": "good,",
+       "start_time": 172.09,
+       "end_time": 172.51,
+       "probability": 0.9374020000000001
+      },
+      {
+       "text": "if",
+       "start_time": 172.59,
+       "end_time": 172.68,
+       "probability": 0.998213
+      },
+      {
+       "text": "it's",
+       "start_time": 172.69,
+       "end_time": 172.99,
+       "probability": 0.998523
+      },
+      {
+       "text": "challenging,",
+       "start_time": 172.99,
+       "end_time": 173.94,
+       "probability": 0.9355644999999999
+      },
+      {
+       "text": "anything",
+       "start_time": 173.99,
+       "end_time": 174.48,
+       "probability": 0.996538
+      },
+      {
+       "text": "unexpected",
+       "start_time": 174.59,
+       "end_time": 175.32,
+       "probability": 0.997695
+      },
+      {
+       "text": "yet?",
+       "start_time": 175.32,
+       "end_time": 175.8,
+       "probability": 0.956356
+      }
+     ],
+     "start_time": 171.71,
+     "end_time": 175.8
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "speaker_id": 1,
+   "is_nonspeech": false,
+   "start_time": 175.87,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "What stood out the most was actually last week, we got the crew all suited up and we",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "What",
+       "start_time": 175.87,
+       "end_time": 176.17,
+       "probability": 0.997204
+      },
+      {
+       "text": "stood",
+       "start_time": 176.17,
+       "end_time": 176.64,
+       "probability": 0.9691
+      },
+      {
+       "text": "out",
+       "start_time": 176.64,
+       "end_time": 176.92,
+       "probability": 0.999226
+      },
+      {
+       "text": "the",
+       "start_time": 176.92,
+       "end_time": 177.2,
+       "probability": 0.997075
+      },
+      {
+       "text": "most",
+       "start_time": 177.2,
+       "end_time": 177.55,
+       "probability": 0.999874
+      },
+      {
+       "text": "was",
+       "start_time": 177.6,
+       "end_time": 177.79,
+       "probability": 0.993748
+      },
+      {
+       "text": "actually",
+       "start_time": 177.93,
+       "end_time": 178.6,
+       "probability": 0.965418
+      },
+      {
+       "text": "last",
+       "start_time": 178.6,
+       "end_time": 178.97,
+       "probability": 0.928816
+      },
+      {
+       "text": "week,",
+       "start_time": 178.97,
+       "end_time": 179.52,
+       "probability": 0.620446
+      },
+      {
+       "text": "we",
+       "start_time": 179.52,
+       "end_time": 179.7,
+       "probability": 0.999466
+      },
+      {
+       "text": "got",
+       "start_time": 179.72,
+       "end_time": 179.99,
+       "probability": 0.999424
+      },
+      {
+       "text": "the",
+       "start_time": 179.99,
+       "end_time": 180.09,
+       "probability": 0.999321
+      },
+      {
+       "text": "crew",
+       "start_time": 180.53,
+       "end_time": 180.64,
+       "probability": 0.999775
+      },
+      {
+       "text": "all",
+       "start_time": 180.64,
+       "end_time": 180.92,
+       "probability": 0.998174
+      },
+      {
+       "text": "suited",
+       "start_time": 180.92,
+       "end_time": 181.48,
+       "probability": 0.99862
+      },
+      {
+       "text": "up",
+       "start_time": 181.48,
+       "end_time": 181.65,
+       "probability": 0.998727
+      },
+      {
+       "text": "and",
+       "start_time": 181.76,
+       "end_time": 181.95,
+       "probability": 0.861278
+      },
+      {
+       "text": "we",
+       "start_time": 181.95,
+       "end_time": 182.25,
+       "probability": 0.999455
+      }
+     ],
+     "start_time": 175.87,
+     "end_time": 182.25
+    },
+    {
+     "index": 2,
+     "text": "put them in the capsule like it was the day of launch and we walked and talked through",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "put",
+       "start_time": 182.33,
+       "end_time": 182.43,
+       "probability": 0.999828
+      },
+      {
+       "text": "them",
+       "start_time": 182.43,
+       "end_time": 182.66,
+       "probability": 0.99968
+      },
+      {
+       "text": "in",
+       "start_time": 182.66,
+       "end_time": 182.77,
+       "probability": 0.998864
+      },
+      {
+       "text": "the",
+       "start_time": 182.77,
+       "end_time": 182.94,
+       "probability": 0.973951
+      },
+      {
+       "text": "capsule",
+       "start_time": 182.94,
+       "end_time": 183.34,
+       "probability": 0.998112
+      },
+      {
+       "text": "like",
+       "start_time": 183.35,
+       "end_time": 183.52,
+       "probability": 0.844368
+      },
+      {
+       "text": "it",
+       "start_time": 183.59,
+       "end_time": 183.69,
+       "probability": 0.999146
+      },
+      {
+       "text": "was",
+       "start_time": 183.69,
+       "end_time": 183.86,
+       "probability": 0.999703
+      },
+      {
+       "text": "the",
+       "start_time": 183.86,
+       "end_time": 184.01,
+       "probability": 0.998289
+      },
+      {
+       "text": "day",
+       "start_time": 184.06,
+       "end_time": 184.2,
+       "probability": 0.999489
+      },
+      {
+       "text": "of",
+       "start_time": 184.2,
+       "end_time": 184.25,
+       "probability": 0.999683
+      },
+      {
+       "text": "launch",
+       "start_time": 184.38,
+       "end_time": 184.66,
+       "probability": 0.993002
+      },
+      {
+       "text": "and",
+       "start_time": 184.66,
+       "end_time": 184.83,
+       "probability": 0.595392
+      },
+      {
+       "text": "we",
+       "start_time": 184.83,
+       "end_time": 184.85,
+       "probability": 0.999134
+      },
+      {
+       "text": "walked",
+       "start_time": 184.95,
+       "end_time": 185.29,
+       "probability": 0.997931
+      },
+      {
+       "text": "and",
+       "start_time": 185.29,
+       "end_time": 185.46,
+       "probability": 0.990905
+      },
+      {
+       "text": "talked",
+       "start_time": 185.46,
+       "end_time": 185.81,
+       "probability": 0.983993
+      },
+      {
+       "text": "through",
+       "start_time": 185.81,
+       "end_time": 186.32,
+       "probability": 0.999378
+      }
+     ],
+     "start_time": 182.33,
+     "end_time": 186.32
+    },
+    {
+     "index": 3,
+     "text": "some things, but just watching them on the video feed, all four of them in there all",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "some",
+       "start_time": 186.39,
+       "end_time": 186.56,
+       "probability": 0.999474
+      },
+      {
+       "text": "things,",
+       "start_time": 186.61,
+       "end_time": 187.11,
+       "probability": 0.788183
+      },
+      {
+       "text": "but",
+       "start_time": 187.11,
+       "end_time": 187.31,
+       "probability": 0.999394
+      },
+      {
+       "text": "just",
+       "start_time": 187.31,
+       "end_time": 187.57,
+       "probability": 0.999253
+      },
+      {
+       "text": "watching",
+       "start_time": 187.65,
+       "end_time": 188.07,
+       "probability": 0.999699
+      },
+      {
+       "text": "them",
+       "start_time": 188.12,
+       "end_time": 188.31,
+       "probability": 0.999729
+      },
+      {
+       "text": "on",
+       "start_time": 188.42,
+       "end_time": 188.49,
+       "probability": 0.999077
+      },
+      {
+       "text": "the",
+       "start_time": 188.49,
+       "end_time": 188.69,
+       "probability": 0.999123
+      },
+      {
+       "text": "video",
+       "start_time": 188.69,
+       "end_time": 189.02,
+       "probability": 0.999249
+      },
+      {
+       "text": "feed,",
+       "start_time": 189.02,
+       "end_time": 189.41,
+       "probability": 0.977374
+      },
+      {
+       "text": "all",
+       "start_time": 189.41,
+       "end_time": 189.61,
+       "probability": 0.999112
+      },
+      {
+       "text": "four",
+       "start_time": 189.61,
+       "end_time": 189.87,
+       "probability": 0.997626
+      },
+      {
+       "text": "of",
+       "start_time": 189.87,
+       "end_time": 190.0,
+       "probability": 0.999725
+      },
+      {
+       "text": "them",
+       "start_time": 190.0,
+       "end_time": 190.25,
+       "probability": 0.999828
+      },
+      {
+       "text": "in",
+       "start_time": 190.26,
+       "end_time": 190.39,
+       "probability": 0.998171
+      },
+      {
+       "text": "there",
+       "start_time": 190.39,
+       "end_time": 190.61,
+       "probability": 0.996272
+      },
+      {
+       "text": "all",
+       "start_time": 190.77,
+       "end_time": 190.98,
+       "probability": 0.595951
+      }
+     ],
+     "start_time": 186.39,
+     "end_time": 190.98
+    },
+    {
+     "index": 4,
+     "text": "suited up, it felt real.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "suited",
+       "start_time": 191.11,
+       "end_time": 191.73,
+       "probability": 0.971758
+      },
+      {
+       "text": "up,",
+       "start_time": 191.74,
+       "end_time": 192.17,
+       "probability": 0.947429
+      },
+      {
+       "text": "it",
+       "start_time": 192.27,
+       "end_time": 192.43,
+       "probability": 0.999443
+      },
+      {
+       "text": "felt",
+       "start_time": 192.43,
+       "end_time": 192.9,
+       "probability": 0.999626
+      },
+      {
+       "text": "real.",
+       "start_time": 192.9,
+       "end_time": 193.76,
+       "probability": 0.9991954999999999
+      }
+     ],
+     "start_time": 191.11,
+     "end_time": 193.76
+    },
+    {
+     "index": 5,
+     "text": "It felt like watching Artemis II crew on launch day.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "It",
+       "start_time": 193.83,
+       "end_time": 193.97,
+       "probability": 0.998392
+      },
+      {
+       "text": "felt",
+       "start_time": 193.97,
+       "end_time": 194.4,
+       "probability": 0.99939
+      },
+      {
+       "text": "like",
+       "start_time": 194.4,
+       "end_time": 194.82,
+       "probability": 0.998845
+      },
+      {
+       "text": "watching",
+       "start_time": 194.83,
+       "end_time": 195.7,
+       "probability": 0.998098
+      },
+      {
+       "text": "Artemis",
+       "start_time": 195.7,
+       "end_time": 196.46,
+       "probability": 0.919942
+      },
+      {
+       "text": "II",
+       "start_time": 196.46,
+       "end_time": 196.6,
+       "probability": 0.479715
+      },
+      {
+       "text": "crew",
+       "start_time": 196.71,
+       "end_time": 197.1,
+       "probability": 0.981603
+      },
+      {
+       "text": "on",
+       "start_time": 197.1,
+       "end_time": 197.31,
+       "probability": 0.997288
+      },
+      {
+       "text": "launch",
+       "start_time": 197.31,
+       "end_time": 197.96,
+       "probability": 0.988265
+      },
+      {
+       "text": "day.",
+       "start_time": 197.96,
+       "end_time": 198.66,
+       "probability": 0.950125
+      }
+     ],
+     "start_time": 193.83,
+     "end_time": 198.66
+    },
+    {
+     "index": 6,
+     "text": "So that's when I first got the goosebumps and I'm like, \"This is really happening.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "So",
+       "start_time": 198.73,
+       "end_time": 198.78,
+       "probability": 0.990701
+      },
+      {
+       "text": "that's",
+       "start_time": 198.78,
+       "end_time": 199.14,
+       "probability": 0.9959895
+      },
+      {
+       "text": "when",
+       "start_time": 199.14,
+       "end_time": 199.38,
+       "probability": 0.993858
+      },
+      {
+       "text": "I",
+       "start_time": 199.38,
+       "end_time": 199.44,
+       "probability": 0.99926
+      },
+      {
+       "text": "first",
+       "start_time": 199.44,
+       "end_time": 199.74,
+       "probability": 0.997999
+      },
+      {
+       "text": "got",
+       "start_time": 199.74,
+       "end_time": 199.92,
+       "probability": 0.998837
+      },
+      {
+       "text": "the",
+       "start_time": 199.92,
+       "end_time": 200.1,
+       "probability": 0.995273
+      },
+      {
+       "text": "goosebumps",
+       "start_time": 200.1,
+       "end_time": 200.65,
+       "probability": 0.964852
+      },
+      {
+       "text": "and",
+       "start_time": 200.76,
+       "end_time": 200.88,
+       "probability": 0.671373
+      },
+      {
+       "text": "I'm",
+       "start_time": 200.88,
+       "end_time": 201.06,
+       "probability": 0.9892015000000001
+      },
+      {
+       "text": "like,",
+       "start_time": 201.06,
+       "end_time": 201.42,
+       "probability": 0.935991
+      },
+      {
+       "text": "\"This",
+       "start_time": 201.42,
+       "end_time": 201.72,
+       "probability": 0.907035
+      },
+      {
+       "text": "is",
+       "start_time": 201.72,
+       "end_time": 201.84,
+       "probability": 0.998993
+      },
+      {
+       "text": "really",
+       "start_time": 201.84,
+       "end_time": 202.2,
+       "probability": 0.99907
+      },
+      {
+       "text": "happening.",
+       "start_time": 202.2,
+       "end_time": 202.93,
+       "probability": 0.9108355
+      }
+     ],
+     "start_time": 198.73,
+     "end_time": 202.93
+    },
+    {
+     "index": 7,
+     "text": "This is real.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "This",
+       "start_time": 203.09,
+       "end_time": 203.35,
+       "probability": 0.999565
+      },
+      {
+       "text": "is",
+       "start_time": 203.35,
+       "end_time": 203.51,
+       "probability": 0.999493
+      },
+      {
+       "text": "real.",
+       "start_time": 203.51,
+       "end_time": 204.12,
+       "probability": 0.9496045
+      }
+     ],
+     "start_time": 203.09,
+     "end_time": 204.12
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "speaker_id": 1,
+   "is_nonspeech": false,
+   "start_time": 204.19,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "This is what it's going to feel like on launch day.\"",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "This",
+       "start_time": 204.19,
+       "end_time": 204.42,
+       "probability": 0.999561
+      },
+      {
+       "text": "is",
+       "start_time": 204.42,
+       "end_time": 204.57,
+       "probability": 0.999504
+      },
+      {
+       "text": "what",
+       "start_time": 204.57,
+       "end_time": 204.87,
+       "probability": 0.999413
+      },
+      {
+       "text": "it's",
+       "start_time": 204.87,
+       "end_time": 205.16,
+       "probability": 0.9934959999999999
+      },
+      {
+       "text": "going",
+       "start_time": 205.17,
+       "end_time": 205.54,
+       "probability": 0.813233
+      },
+      {
+       "text": "to",
+       "start_time": 205.54,
+       "end_time": 205.69,
+       "probability": 0.998883
+      },
+      {
+       "text": "feel",
+       "start_time": 205.69,
+       "end_time": 205.99,
+       "probability": 0.999439
+      },
+      {
+       "text": "like",
+       "start_time": 205.99,
+       "end_time": 206.29,
+       "probability": 0.997588
+      },
+      {
+       "text": "on",
+       "start_time": 206.29,
+       "end_time": 206.43,
+       "probability": 0.997718
+      },
+      {
+       "text": "launch",
+       "start_time": 206.47,
+       "end_time": 206.89,
+       "probability": 0.998993
+      },
+      {
+       "text": "day.\"",
+       "start_time": 206.89,
+       "end_time": 207.44,
+       "probability": 0.980234
+      }
+     ],
+     "start_time": 204.19,
+     "end_time": 207.44
+    },
+    {
+     "index": 2,
+     "text": "So I mean, that was just an exciting moment.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "So",
+       "start_time": 207.51,
+       "end_time": 207.6,
+       "probability": 0.981223
+      },
+      {
+       "text": "I",
+       "start_time": 207.6,
+       "end_time": 207.68,
+       "probability": 0.516757
+      },
+      {
+       "text": "mean,",
+       "start_time": 207.68,
+       "end_time": 208.17,
+       "probability": 0.86822
+      },
+      {
+       "text": "that",
+       "start_time": 208.17,
+       "end_time": 208.5,
+       "probability": 0.954239
+      },
+      {
+       "text": "was",
+       "start_time": 208.5,
+       "end_time": 208.7,
+       "probability": 0.999539
+      },
+      {
+       "text": "just",
+       "start_time": 208.77,
+       "end_time": 209.08,
+       "probability": 0.988961
+      },
+      {
+       "text": "an",
+       "start_time": 209.08,
+       "end_time": 209.19,
+       "probability": 0.999081
+      },
+      {
+       "text": "exciting",
+       "start_time": 209.24,
+       "end_time": 209.91,
+       "probability": 0.999676
+      },
+      {
+       "text": "moment.",
+       "start_time": 209.91,
+       "end_time": 210.72,
+       "probability": 0.9984584999999999
+      }
+     ],
+     "start_time": 207.51,
+     "end_time": 210.72
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "speaker_id": 2,
+   "is_nonspeech": false,
+   "start_time": 210.79,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "It's so cool.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "It's",
+       "start_time": 210.79,
+       "end_time": 211.02,
+       "probability": 0.9864995000000001
+      },
+      {
+       "text": "so",
+       "start_time": 211.02,
+       "end_time": 211.17,
+       "probability": 0.999317
+      },
+      {
+       "text": "cool.",
+       "start_time": 211.17,
+       "end_time": 211.71,
+       "probability": 0.977967
+      }
+     ],
+     "start_time": 210.79,
+     "end_time": 211.71
+    },
+    {
+     "index": 2,
+     "text": "I see it in my mind, kind of like those scenes in a movie where you're watching something",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "I",
+       "start_time": 211.76,
+       "end_time": 211.76,
+       "probability": 0.999699
+      },
+      {
+       "text": "see",
+       "start_time": 211.79,
+       "end_time": 211.89,
+       "probability": 0.99891
+      },
+      {
+       "text": "it",
+       "start_time": 211.89,
+       "end_time": 211.96,
+       "probability": 0.989274
+      },
+      {
+       "text": "in",
+       "start_time": 212.01,
+       "end_time": 212.06,
+       "probability": 0.997451
+      },
+      {
+       "text": "my",
+       "start_time": 212.07,
+       "end_time": 212.16,
+       "probability": 0.999561
+      },
+      {
+       "text": "mind,",
+       "start_time": 212.16,
+       "end_time": 212.43,
+       "probability": 0.7564015
+      },
+      {
+       "text": "kind",
+       "start_time": 212.43,
+       "end_time": 212.58,
+       "probability": 0.676975
+      },
+      {
+       "text": "of",
+       "start_time": 212.68,
+       "end_time": 212.7,
+       "probability": 0.999458
+      },
+      {
+       "text": "like",
+       "start_time": 212.7,
+       "end_time": 212.85,
+       "probability": 0.88813
+      },
+      {
+       "text": "those",
+       "start_time": 212.94,
+       "end_time": 213.1,
+       "probability": 0.932028
+      },
+      {
+       "text": "scenes",
+       "start_time": 213.1,
+       "end_time": 213.37,
+       "probability": 0.999066
+      },
+      {
+       "text": "in",
+       "start_time": 213.37,
+       "end_time": 213.46,
+       "probability": 0.998715
+      },
+      {
+       "text": "a",
+       "start_time": 213.46,
+       "end_time": 213.46,
+       "probability": 0.993851
+      },
+      {
+       "text": "movie",
+       "start_time": 213.52,
+       "end_time": 213.71,
+       "probability": 0.999268
+      },
+      {
+       "text": "where",
+       "start_time": 213.82,
+       "end_time": 213.94,
+       "probability": 0.898387
+      },
+      {
+       "text": "you're",
+       "start_time": 213.94,
+       "end_time": 214.2,
+       "probability": 0.998437
+      },
+      {
+       "text": "watching",
+       "start_time": 214.2,
+       "end_time": 214.56,
+       "probability": 0.999516
+      },
+      {
+       "text": "something",
+       "start_time": 214.67,
+       "end_time": 215.04,
+       "probability": 0.991726
+      }
+     ],
+     "start_time": 211.76,
+     "end_time": 215.04
+    },
+    {
+     "index": 3,
+     "text": "in real time, but then you flash forward to what's coming up and then it's launch day",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "in",
+       "start_time": 215.11,
+       "end_time": 215.13,
+       "probability": 0.469714
+      },
+      {
+       "text": "real",
+       "start_time": 215.13,
+       "end_time": 215.28,
+       "probability": 0.997432
+      },
+      {
+       "text": "time,",
+       "start_time": 215.33,
+       "end_time": 215.6,
+       "probability": 0.758616
+      },
+      {
+       "text": "but",
+       "start_time": 215.6,
+       "end_time": 215.73,
+       "probability": 0.997737
+      },
+      {
+       "text": "then",
+       "start_time": 215.74,
+       "end_time": 215.9,
+       "probability": 0.999397
+      },
+      {
+       "text": "you",
+       "start_time": 215.99,
+       "end_time": 216.07,
+       "probability": 0.998022
+      },
+      {
+       "text": "flash",
+       "start_time": 216.07,
+       "end_time": 216.3,
+       "probability": 0.987814
+      },
+      {
+       "text": "forward",
+       "start_time": 216.37,
+       "end_time": 216.64,
+       "probability": 0.989496
+      },
+      {
+       "text": "to",
+       "start_time": 216.64,
+       "end_time": 216.73,
+       "probability": 0.998772
+      },
+      {
+       "text": "what's",
+       "start_time": 216.73,
+       "end_time": 217.01,
+       "probability": 0.998826
+      },
+      {
+       "text": "coming",
+       "start_time": 217.01,
+       "end_time": 217.29,
+       "probability": 0.999603
+      },
+      {
+       "text": "up",
+       "start_time": 217.29,
+       "end_time": 217.34,
+       "probability": 0.998818
+      },
+      {
+       "text": "and",
+       "start_time": 217.39,
+       "end_time": 217.52,
+       "probability": 0.8446
+      },
+      {
+       "text": "then",
+       "start_time": 217.52,
+       "end_time": 217.63,
+       "probability": 0.98408
+      },
+      {
+       "text": "it's",
+       "start_time": 217.73,
+       "end_time": 217.88,
+       "probability": 0.9883599999999999
+      },
+      {
+       "text": "launch",
+       "start_time": 217.99,
+       "end_time": 218.26,
+       "probability": 0.992356
+      },
+      {
+       "text": "day",
+       "start_time": 218.26,
+       "end_time": 218.4,
+       "probability": 0.980847
+      }
+     ],
+     "start_time": 215.11,
+     "end_time": 218.4
+    },
+    {
+     "index": 4,
+     "text": "all of a sudden and you flash back to that moment.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "all",
+       "start_time": 218.47,
+       "end_time": 218.56,
+       "probability": 0.993635
+      },
+      {
+       "text": "of",
+       "start_time": 218.56,
+       "end_time": 218.64,
+       "probability": 0.99527
+      },
+      {
+       "text": "a",
+       "start_time": 218.69,
+       "end_time": 218.71,
+       "probability": 0.985124
+      },
+      {
+       "text": "sudden",
+       "start_time": 218.71,
+       "end_time": 219.02,
+       "probability": 0.999405
+      },
+      {
+       "text": "and",
+       "start_time": 219.02,
+       "end_time": 219.18,
+       "probability": 0.399803
+      },
+      {
+       "text": "you",
+       "start_time": 219.18,
+       "end_time": 219.27,
+       "probability": 0.995235
+      },
+      {
+       "text": "flash",
+       "start_time": 219.35,
+       "end_time": 219.53,
+       "probability": 0.782919
+      },
+      {
+       "text": "back",
+       "start_time": 219.63,
+       "end_time": 219.81,
+       "probability": 0.996409
+      },
+      {
+       "text": "to",
+       "start_time": 219.81,
+       "end_time": 219.91,
+       "probability": 0.998555
+      },
+      {
+       "text": "that",
+       "start_time": 219.91,
+       "end_time": 220.12,
+       "probability": 0.999081
+      },
+      {
+       "text": "moment.",
+       "start_time": 220.12,
+       "end_time": 220.64,
+       "probability": 0.9587735
+      }
+     ],
+     "start_time": 218.47,
+     "end_time": 220.64
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "speaker_id": 1,
+   "is_nonspeech": false,
+   "start_time": 220.68,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "I don't know if that's real.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "I",
+       "start_time": 220.68,
+       "end_time": 220.68,
+       "probability": 0.985921
+      },
+      {
+       "text": "don't",
+       "start_time": 220.71,
+       "end_time": 220.87,
+       "probability": 0.9965630000000001
+      },
+      {
+       "text": "know",
+       "start_time": 220.87,
+       "end_time": 221.03,
+       "probability": 0.996538
+      },
+      {
+       "text": "if",
+       "start_time": 221.03,
+       "end_time": 221.09,
+       "probability": 0.759455
+      },
+      {
+       "text": "that's",
+       "start_time": 221.11,
+       "end_time": 221.33,
+       "probability": 0.9629719999999999
+      },
+      {
+       "text": "real.",
+       "start_time": 221.34,
+       "end_time": 221.64,
+       "probability": 0.573472
+      }
+     ],
+     "start_time": 220.68,
+     "end_time": 221.64
+    },
+    {
+     "index": 2,
+     "text": "Exactly.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "Exactly.",
+       "start_time": 221.71,
+       "end_time": 222.63,
+       "probability": 0.9769399999999999
+      }
+     ],
+     "start_time": 221.71,
+     "end_time": 222.63
+    },
+    {
+     "index": 3,
+     "text": "I went into mom mode.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "I",
+       "start_time": 222.69,
+       "end_time": 222.69,
+       "probability": 0.878956
+      },
+      {
+       "text": "went",
+       "start_time": 222.71,
+       "end_time": 222.88,
+       "probability": 0.998772
+      },
+      {
+       "text": "into",
+       "start_time": 222.93,
+       "end_time": 223.09,
+       "probability": 0.989327
+      },
+      {
+       "text": "mom",
+       "start_time": 223.11,
+       "end_time": 223.26,
+       "probability": 0.682164
+      },
+      {
+       "text": "mode.",
+       "start_time": 223.26,
+       "end_time": 223.63,
+       "probability": 0.9938465
+      }
+     ],
+     "start_time": 222.69,
+     "end_time": 223.63
+    },
+    {
+     "index": 4,
+     "text": "And I'm like, \"I'm going to take pictures.\"",
+     "low_confidence": true,
+     "words": [
+      {
+       "text": "And",
+       "start_time": 223.71,
+       "end_time": 223.71,
+       "probability": 0.0866707
+      },
+      {
+       "text": "I'm",
+       "start_time": 223.71,
+       "end_time": 223.78,
+       "probability": 0.230847
+      },
+      {
+       "text": "like,",
+       "start_time": 223.78,
+       "end_time": 223.88,
+       "probability": 0.7415164999999999
+      },
+      {
+       "text": "\"I'm",
+       "start_time": 223.93,
+       "end_time": 224.02,
+       "probability": 0.45321133333333335
+      },
+      {
+       "text": "going",
+       "start_time": 224.02,
+       "end_time": 224.14,
+       "probability": 0.29101
+      },
+      {
+       "text": "to",
+       "start_time": 224.14,
+       "end_time": 224.19,
+       "probability": 0.826158
+      },
+      {
+       "text": "take",
+       "start_time": 224.19,
+       "end_time": 224.29,
+       "probability": 0.206399
+      },
+      {
+       "text": "pictures.\"",
+       "start_time": 224.29,
+       "end_time": 224.64,
+       "probability": 0.7907305
+      }
+     ],
+     "start_time": 223.71,
+     "end_time": 224.64
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "speaker_id": 2,
+   "is_nonspeech": false,
+   "start_time": 224.71,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "Good.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "Good.",
+       "start_time": 224.71,
+       "end_time": 225.63,
+       "probability": 0.815563
+      }
+     ],
+     "start_time": 224.71,
+     "end_time": 225.63
+    },
+    {
+     "index": 2,
+     "text": "I'm sure they all appreciate that and you'll thank yourself too when they launch next year.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "I'm",
+       "start_time": 225.7,
+       "end_time": 225.82,
+       "probability": 0.9984355
+      },
+      {
+       "text": "sure",
+       "start_time": 225.82,
+       "end_time": 226.06,
+       "probability": 0.999737
+      },
+      {
+       "text": "they",
+       "start_time": 226.06,
+       "end_time": 226.3,
+       "probability": 0.996253
+      },
+      {
+       "text": "all",
+       "start_time": 226.3,
+       "end_time": 226.48,
+       "probability": 0.551322
+      },
+      {
+       "text": "appreciate",
+       "start_time": 226.48,
+       "end_time": 227.09,
+       "probability": 0.997611
+      },
+      {
+       "text": "that",
+       "start_time": 227.09,
+       "end_time": 227.33,
+       "probability": 0.999367
+      },
+      {
+       "text": "and",
+       "start_time": 227.33,
+       "end_time": 227.51,
+       "probability": 0.479611
+      },
+      {
+       "text": "you'll",
+       "start_time": 227.51,
+       "end_time": 227.87,
+       "probability": 0.9972605
+      },
+      {
+       "text": "thank",
+       "start_time": 227.87,
+       "end_time": 228.17,
+       "probability": 0.982148
+      },
+      {
+       "text": "yourself",
+       "start_time": 228.17,
+       "end_time": 228.66,
+       "probability": 0.997508
+      },
+      {
+       "text": "too",
+       "start_time": 228.66,
+       "end_time": 228.84,
+       "probability": 0.657188
+      },
+      {
+       "text": "when",
+       "start_time": 228.84,
+       "end_time": 229.07,
+       "probability": 0.904922
+      },
+      {
+       "text": "they",
+       "start_time": 229.09,
+       "end_time": 229.32,
+       "probability": 0.998761
+      },
+      {
+       "text": "launch",
+       "start_time": 229.32,
+       "end_time": 229.69,
+       "probability": 0.997798
+      },
+      {
+       "text": "next",
+       "start_time": 229.69,
+       "end_time": 229.91,
+       "probability": 0.998513
+      },
+      {
+       "text": "year.",
+       "start_time": 229.92,
+       "end_time": 230.46,
+       "probability": 0.9943569999999999
+      }
+     ],
+     "start_time": 225.7,
+     "end_time": 230.46
+    },
+    {
+     "index": 3,
+     "text": "So talking about training, you were saying earlier how it's part of your job to make",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "So",
+       "start_time": 230.53,
+       "end_time": 230.59,
+       "probability": 0.998468
+      },
+      {
+       "text": "talking",
+       "start_time": 230.59,
+       "end_time": 231.06,
+       "probability": 0.995797
+      },
+      {
+       "text": "about",
+       "start_time": 231.06,
+       "end_time": 231.32,
+       "probability": 0.999809
+      },
+      {
+       "text": "training,",
+       "start_time": 231.42,
+       "end_time": 232.06,
+       "probability": 0.9723255
+      },
+      {
+       "text": "you",
+       "start_time": 232.06,
+       "end_time": 232.21,
+       "probability": 0.998807
+      },
+      {
+       "text": "were",
+       "start_time": 232.26,
+       "end_time": 232.45,
+       "probability": 0.754434
+      },
+      {
+       "text": "saying",
+       "start_time": 232.59,
+       "end_time": 232.93,
+       "probability": 0.962102
+      },
+      {
+       "text": "earlier",
+       "start_time": 232.93,
+       "end_time": 233.3,
+       "probability": 0.998704
+      },
+      {
+       "text": "how",
+       "start_time": 233.41,
+       "end_time": 233.6,
+       "probability": 0.982864
+      },
+      {
+       "text": "it's",
+       "start_time": 233.6,
+       "end_time": 233.86,
+       "probability": 0.9954
+      },
+      {
+       "text": "part",
+       "start_time": 233.86,
+       "end_time": 234.13,
+       "probability": 0.994719
+      },
+      {
+       "text": "of",
+       "start_time": 234.13,
+       "end_time": 234.25,
+       "probability": 0.999687
+      },
+      {
+       "text": "your",
+       "start_time": 234.27,
+       "end_time": 234.53,
+       "probability": 0.999096
+      },
+      {
+       "text": "job",
+       "start_time": 234.53,
+       "end_time": 234.73,
+       "probability": 0.999706
+      },
+      {
+       "text": "to",
+       "start_time": 234.73,
+       "end_time": 234.75,
+       "probability": 0.999344
+      },
+      {
+       "text": "make",
+       "start_time": 234.91,
+       "end_time": 235.2,
+       "probability": 0.999359
+      }
+     ],
+     "start_time": 230.53,
+     "end_time": 235.2
+    },
+    {
+     "index": 4,
+     "text": "sure everyone is totally finalized in what they need to know.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "sure",
+       "start_time": 235.27,
+       "end_time": 235.63,
+       "probability": 0.999958
+      },
+      {
+       "text": "everyone",
+       "start_time": 235.63,
+       "end_time": 236.46,
+       "probability": 0.997489
+      },
+      {
+       "text": "is",
+       "start_time": 236.53,
+       "end_time": 236.71,
+       "probability": 0.999577
+      },
+      {
+       "text": "totally",
+       "start_time": 236.71,
+       "end_time": 237.47,
+       "probability": 0.999523
+      },
+      {
+       "text": "finalized",
+       "start_time": 237.47,
+       "end_time": 238.44,
+       "probability": 0.994438
+      },
+      {
+       "text": "in",
+       "start_time": 238.45,
+       "end_time": 238.65,
+       "probability": 0.945291
+      },
+      {
+       "text": "what",
+       "start_time": 238.66,
+       "end_time": 239.09,
+       "probability": 0.99963
+      },
+      {
+       "text": "they",
+       "start_time": 239.09,
+       "end_time": 239.49,
+       "probability": 0.999615
+      },
+      {
+       "text": "need",
+       "start_time": 239.93,
+       "end_time": 239.95,
+       "probability": 0.999668
+      },
+      {
+       "text": "to",
+       "start_time": 239.95,
+       "end_time": 240.16,
+       "probability": 0.999619
+      },
+      {
+       "text": "know.",
+       "start_time": 240.16,
+       "end_time": 240.98,
+       "probability": 0.9839905
+      }
+     ],
+     "start_time": 235.27,
+     "end_time": 240.98
+    },
+    {
+     "index": 5,
+     "text": "How do you know when, what officially marks the end of training?",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "How",
+       "start_time": 241.05,
+       "end_time": 241.19,
+       "probability": 0.985534
+      },
+      {
+       "text": "do",
+       "start_time": 241.19,
+       "end_time": 241.32,
+       "probability": 0.999321
+      },
+      {
+       "text": "you",
+       "start_time": 241.33,
+       "end_time": 241.54,
+       "probability": 0.995387
+      },
+      {
+       "text": "know",
+       "start_time": 241.54,
+       "end_time": 241.82,
+       "probability": 0.99798
+      },
+      {
+       "text": "when,",
+       "start_time": 241.82,
+       "end_time": 242.24,
+       "probability": 0.4596875
+      },
+      {
+       "text": "what",
+       "start_time": 242.31,
+       "end_time": 242.52,
+       "probability": 0.757386
+      },
+      {
+       "text": "officially",
+       "start_time": 242.52,
+       "end_time": 243.21,
+       "probability": 0.992377
+      },
+      {
+       "text": "marks",
+       "start_time": 243.21,
+       "end_time": 243.57,
+       "probability": 0.998548
+      },
+      {
+       "text": "the",
+       "start_time": 243.57,
+       "end_time": 243.78,
+       "probability": 0.999298
+      },
+      {
+       "text": "end",
+       "start_time": 243.78,
+       "end_time": 243.99,
+       "probability": 0.999794
+      },
+      {
+       "text": "of",
+       "start_time": 243.99,
+       "end_time": 244.13,
+       "probability": 0.999394
+      },
+      {
+       "text": "training?",
+       "start_time": 244.13,
+       "end_time": 244.93,
+       "probability": 0.9813845
+      }
+     ],
+     "start_time": 241.05,
+     "end_time": 244.93
+    },
+    {
+     "index": 6,
+     "text": "How do you know that they are ready to go fly the spacecraft?",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "How",
+       "start_time": 245.01,
+       "end_time": 245.11,
+       "probability": 0.999417
+      },
+      {
+       "text": "do",
+       "start_time": 245.11,
+       "end_time": 245.18,
+       "probability": 0.998365
+      },
+      {
+       "text": "you",
+       "start_time": 245.23,
+       "end_time": 245.39,
+       "probability": 0.994355
+      },
+      {
+       "text": "know",
+       "start_time": 245.39,
+       "end_time": 245.62,
+       "probability": 0.998814
+      },
+      {
+       "text": "that",
+       "start_time": 245.62,
+       "end_time": 245.8,
+       "probability": 0.992301
+      },
+      {
+       "text": "they",
+       "start_time": 245.89,
+       "end_time": 246.07,
+       "probability": 0.99934
+      },
+      {
+       "text": "are",
+       "start_time": 246.16,
+       "end_time": 246.2,
+       "probability": 0.993267
+      },
+      {
+       "text": "ready",
+       "start_time": 246.27,
+       "end_time": 246.54,
+       "probability": 0.9996
+      },
+      {
+       "text": "to",
+       "start_time": 246.54,
+       "end_time": 246.65,
+       "probability": 0.999607
+      },
+      {
+       "text": "go",
+       "start_time": 246.65,
+       "end_time": 246.76,
+       "probability": 0.998258
+      },
+      {
+       "text": "fly",
+       "start_time": 246.76,
+       "end_time": 246.93,
+       "probability": 0.995072
+      },
+      {
+       "text": "the",
+       "start_time": 246.93,
+       "end_time": 247.1,
+       "probability": 0.961636
+      },
+      {
+       "text": "spacecraft?",
+       "start_time": 247.1,
+       "end_time": 247.96,
+       "probability": 0.9953125
+      }
+     ],
+     "start_time": 245.01,
+     "end_time": 247.96
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "speaker_id": 1,
+   "is_nonspeech": false,
+   "start_time": 248.03,
+   "sentences": [
+    {
+     "index": 1,
+     "text": "That's a great question.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "That's",
+       "start_time": 248.03,
+       "end_time": 248.82,
+       "probability": 0.9877404999999999
+      },
+      {
+       "text": "a",
+       "start_time": 248.91,
+       "end_time": 248.99,
+       "probability": 0.99926
+      },
+      {
+       "text": "great",
+       "start_time": 248.99,
+       "end_time": 249.72,
+       "probability": 0.998734
+      },
+      {
+       "text": "question.",
+       "start_time": 249.76,
+       "end_time": 251.39,
+       "probability": 0.999001
+      }
+     ],
+     "start_time": 248.03,
+     "end_time": 251.39
+    },
+    {
+     "index": 2,
+     "text": "You really know once you get in a sim and you just see the entire team, not just the",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "You",
+       "start_time": 251.47,
+       "end_time": 251.71,
+       "probability": 0.999077
+      },
+      {
+       "text": "really",
+       "start_time": 251.71,
+       "end_time": 252.26,
+       "probability": 0.998433
+      },
+      {
+       "text": "know",
+       "start_time": 252.36,
+       "end_time": 252.76,
+       "probability": 0.998053
+      },
+      {
+       "text": "once",
+       "start_time": 252.76,
+       "end_time": 253.15,
+       "probability": 0.863561
+      },
+      {
+       "text": "you",
+       "start_time": 253.2,
+       "end_time": 253.39,
+       "probability": 0.99958
+      },
+      {
+       "text": "get",
+       "start_time": 253.52,
+       "end_time": 253.8,
+       "probability": 0.999256
+      },
+      {
+       "text": "in",
+       "start_time": 253.8,
+       "end_time": 253.99,
+       "probability": 0.934725
+      },
+      {
+       "text": "a",
+       "start_time": 254.09,
+       "end_time": 254.11,
+       "probability": 0.975844
+      },
+      {
+       "text": "sim",
+       "start_time": 254.11,
+       "end_time": 254.42,
+       "probability": 0.734726
+      },
+      {
+       "text": "and",
+       "start_time": 254.42,
+       "end_time": 254.73,
+       "probability": 0.953243
+      },
+      {
+       "text": "you",
+       "start_time": 254.73,
+       "end_time": 255.04,
+       "probability": 0.999054
+      },
+      {
+       "text": "just",
+       "start_time": 255.04,
+       "end_time": 255.46,
+       "probability": 0.996824
+      },
+      {
+       "text": "see",
+       "start_time": 255.46,
+       "end_time": 255.69,
+       "probability": 0.999188
+      },
+      {
+       "text": "the",
+       "start_time": 255.78,
+       "end_time": 256.06,
+       "probability": 0.999622
+      },
+      {
+       "text": "entire",
+       "start_time": 256.13,
+       "end_time": 256.59,
+       "probability": 0.999619
+      },
+      {
+       "text": "team,",
+       "start_time": 256.77,
+       "end_time": 257.25,
+       "probability": 0.9066615
+      },
+      {
+       "text": "not",
+       "start_time": 257.37,
+       "end_time": 257.65,
+       "probability": 0.999409
+      },
+      {
+       "text": "just",
+       "start_time": 257.65,
+       "end_time": 258.03,
+       "probability": 0.999687
+      },
+      {
+       "text": "the",
+       "start_time": 258.11,
+       "end_time": 258.48,
+       "probability": 0.999302
+      }
+     ],
+     "start_time": 251.47,
+     "end_time": 258.48
+    },
+    {
+     "index": 3,
+     "text": "crew, but the entire team working together well.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "crew,",
+       "start_time": 258.55,
+       "end_time": 259.08,
+       "probability": 0.97617
+      },
+      {
+       "text": "but",
+       "start_time": 259.08,
+       "end_time": 259.34,
+       "probability": 0.999112
+      },
+      {
+       "text": "the",
+       "start_time": 259.43,
+       "end_time": 259.61,
+       "probability": 0.999794
+      },
+      {
+       "text": "entire",
+       "start_time": 259.71,
+       "end_time": 260.24,
+       "probability": 0.999756
+      },
+      {
+       "text": "team",
+       "start_time": 260.27,
+       "end_time": 260.67,
+       "probability": 0.999626
+      },
+      {
+       "text": "working",
+       "start_time": 260.68,
+       "end_time": 261.32,
+       "probability": 0.970954
+      },
+      {
+       "text": "together",
+       "start_time": 261.43,
+       "end_time": 262.19,
+       "probability": 0.99963
+      },
+      {
+       "text": "well.",
+       "start_time": 262.19,
+       "end_time": 262.77,
+       "probability": 0.963994
+      }
+     ],
+     "start_time": 258.55,
+     "end_time": 262.77
+    },
+    {
+     "index": 4,
+     "text": "And we won't have everything perfected and nailed down just perfect.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "And",
+       "start_time": 263.01,
+       "end_time": 263.18,
+       "probability": 0.93994
+      },
+      {
+       "text": "we",
+       "start_time": 263.18,
+       "end_time": 263.34,
+       "probability": 0.999695
+      },
+      {
+       "text": "won't",
+       "start_time": 263.34,
+       "end_time": 263.74,
+       "probability": 0.9975415000000001
+      },
+      {
+       "text": "have",
+       "start_time": 263.74,
+       "end_time": 264.06,
+       "probability": 0.998974
+      },
+      {
+       "text": "everything",
+       "start_time": 264.17,
+       "end_time": 264.86,
+       "probability": 0.999176
+      },
+      {
+       "text": "perfected",
+       "start_time": 264.86,
+       "end_time": 265.53,
+       "probability": 0.991333
+      },
+      {
+       "text": "and",
+       "start_time": 265.63,
+       "end_time": 265.78,
+       "probability": 0.998273
+      },
+      {
+       "text": "nailed",
+       "start_time": 265.89,
+       "end_time": 266.3,
+       "probability": 0.994848
+      },
+      {
+       "text": "down",
+       "start_time": 266.3,
+       "end_time": 266.62,
+       "probability": 0.995437
+      },
+      {
+       "text": "just",
+       "start_time": 266.62,
+       "end_time": 266.89,
+       "probability": 0.945265
+      },
+      {
+       "text": "perfect.",
+       "start_time": 266.94,
+       "end_time": 267.78,
+       "probability": 0.823571
+      }
+     ],
+     "start_time": 263.01,
+     "end_time": 267.78
+    },
+    {
+     "index": 5,
+     "text": "But when we get to a point where we are solving problems together and we're doing it in a",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "But",
+       "start_time": 267.85,
+       "end_time": 268.0,
+       "probability": 0.999481
+      },
+      {
+       "text": "when",
+       "start_time": 268.0,
+       "end_time": 268.3,
+       "probability": 0.999695
+      },
+      {
+       "text": "we",
+       "start_time": 268.3,
+       "end_time": 268.45,
+       "probability": 0.999771
+      },
+      {
+       "text": "get",
+       "start_time": 268.45,
+       "end_time": 268.64,
+       "probability": 0.999687
+      },
+      {
+       "text": "to",
+       "start_time": 268.73,
+       "end_time": 268.82,
+       "probability": 0.999569
+      },
+      {
+       "text": "a",
+       "start_time": 268.82,
+       "end_time": 268.89,
+       "probability": 0.999474
+      },
+      {
+       "text": "point",
+       "start_time": 268.89,
+       "end_time": 269.26,
+       "probability": 0.999931
+      },
+      {
+       "text": "where",
+       "start_time": 269.26,
+       "end_time": 269.63,
+       "probability": 0.998948
+      },
+      {
+       "text": "we",
+       "start_time": 269.63,
+       "end_time": 269.77,
+       "probability": 0.999573
+      },
+      {
+       "text": "are",
+       "start_time": 269.88,
+       "end_time": 270.0,
+       "probability": 0.922284
+      },
+      {
+       "text": "solving",
+       "start_time": 270.0,
+       "end_time": 270.52,
+       "probability": 0.999897
+      },
+      {
+       "text": "problems",
+       "start_time": 270.52,
+       "end_time": 271.12,
+       "probability": 0.999539
+      },
+      {
+       "text": "together",
+       "start_time": 271.12,
+       "end_time": 271.71,
+       "probability": 0.999905
+      },
+      {
+       "text": "and",
+       "start_time": 271.72,
+       "end_time": 271.94,
+       "probability": 0.89324
+      },
+      {
+       "text": "we're",
+       "start_time": 271.94,
+       "end_time": 272.31,
+       "probability": 0.998156
+      },
+      {
+       "text": "doing",
+       "start_time": 272.51,
+       "end_time": 272.68,
+       "probability": 0.999737
+      },
+      {
+       "text": "it",
+       "start_time": 272.68,
+       "end_time": 272.76,
+       "probability": 0.99728
+      },
+      {
+       "text": "in",
+       "start_time": 272.76,
+       "end_time": 272.98,
+       "probability": 0.72288
+      },
+      {
+       "text": "a",
+       "start_time": 273.1,
+       "end_time": 273.1,
+       "probability": 0.856589
+      }
+     ],
+     "start_time": 267.85,
+     "end_time": 273.1
+    },
+    {
+     "index": 6,
+     "text": "timely fashion, you see that transition and you know you're ready.",
+     "low_confidence": false,
+     "words": [
+      {
+       "text": "timely",
+       "start_time": 273.17,
+       "end_time": 273.53,
+       "probability": 0.977528
+      },
+      {
+       "text": "fashion,",
+       "start_time": 273.53,
+       "end_time": 274.17,
+       "probability": 0.9882895
+      },
+      {
+       "text": "you",
+       "start_time": 274.17,
+       "end_time": 274.37,
+       "probability": 0.999519
+      },
+      {
+       "text": "see",
+       "start_time": 274.43,
+       "end_time": 274.59,
+       "probability": 0.993726
+      },
+      {
+       "text": "that",
+       "start_time": 274.59,
+       "end_time": 274.84,
+       "probability": 0.999355
+      },
+      {
+       "text": "transition",
+       "start_time": 274.9,
+       "end_time": 275.59,
+       "probability": 0.999523
+      },
+      {
+       "text": "and",
+       "start_time": 275.59,
+       "end_time": 275.8,
+       "probability": 0.977398
+      },
+      {
+       "text": "you",
+       "start_time": 275.8,
+       "end_time": 275.94,
+       "probability": 0.99859
+      },
+      {
+       "text": "know",
+       "start_time": 276.05,
+       "end_time": 276.29,
+       "probability": 0.99811
+      },
+      {
+       "text": "you're",
+       "start_time": 276.29,
+       "end_time": 276.71,
+       "probability": 0.9894054999999999
+      },
+      {
+       "text": "ready.",
+       "start_time": 276.71,
+       "end_time": 277.36,
+       "probability": 0.998088
+      }
+     ],
+     "start_time": 273.17,
+     "end_time": 277.36
+    }
+   ]
+  }
+ ],
+ "info": {
+  "audio": {
+   "file": "nasa-podcast-ep434-2speakers.mp3",
+   "container": "MP2/3 (MPEG audio layer 2/3)",
+   "codec": "MP3 (MPEG audio layer 3)",
+   "codec_name": "mp3",
+   "codec_profile": null,
+   "sample_rate": 44100,
+   "channels": 2,
+   "channel_layout": "stereo",
+   "bit_rate": 96000,
+   "size_bytes": 3329704,
+   "duration": 277.420408,
+   "created": "2024",
+   "device": null,
+   "title_tag": "Artemis III Training",
+   "loudness": {
+    "integrated_lufs": -13.5,
+    "true_peak_dbtp": -2.0
+   }
+  },
+  "boosted": {
+   "file": "nasa-podcast-ep434-2speakers.boosted.flac",
+   "filter": "whole file: low cut 70 Hz, 60 Hz hum notch, normalised to -16 LUFS, limiter; block 1 64.39-79.88s: low cut 130 Hz, 60 Hz hum notch, Wavelet noise reduction (medium), normalised to -16 LUFS, limiter; block 2 80.47-92.07s: low cut 130 Hz, high cut 1000 Hz, 60 Hz hum notch, Wavelet noise reduction (medium), normalised to -16 LUFS, limiter",
+   "loudness": {
+    "integrated_lufs": -15.9,
+    "true_peak_dbtp": -1.1
+   }
+  },
+  "transcription": {
+   "engine": "whisper.cpp (Vulkan GPU)",
+   "model": "medium.en",
+   "started": "2026-10-03T21:30:16-06:00",
+   "processing_seconds": 129.7,
+   "audio_seconds": 277.4,
+   "speaker_model": "ecapa",
+   "speakers_requested": null,
+   "speakers_found": 2,
+   "diarization_detail": "ecapa: best K=2 silhouette=0.553 max centroid sim=0.250",
+   "low_confidence_threshold": 0.5,
+   "source": "boosted copy"
+  }
+ },
+ "speaker_names": {},
+ "cleanup_plan": {
+  "whole": {
+   "channel": "mix",
+   "highpass_hz": 70,
+   "lowpass_hz": 0,
+   "hum_hz": 60,
+   "presence_db": 0.0,
+   "declick": false,
+   "declip": false,
+   "denoise": "off",
+   "denoise_strength": "medium",
+   "leveler": "off",
+   "normalize": true,
+   "gain_db": 0.0
+  },
+  "blocks": [
+   {
+    "start": 64.394,
+    "end": 79.884,
+    "settings": {
+     "channel": "mix",
+     "highpass_hz": 130,
+     "lowpass_hz": 0,
+     "hum_hz": 60,
+     "presence_db": 0.0,
+     "declick": false,
+     "declip": false,
+     "denoise": "wavelet",
+     "denoise_strength": "medium",
+     "leveler": "off",
+     "normalize": true,
+     "gain_db": 0.0
+    }
+   },
+   {
+    "start": 80.472,
+    "end": 92.072,
+    "settings": {
+     "channel": "mix",
+     "highpass_hz": 130,
+     "lowpass_hz": 1000,
+     "hum_hz": 60,
+     "presence_db": 0.0,
+     "declick": false,
+     "declip": false,
+     "denoise": "wavelet",
+     "denoise_strength": "medium",
+     "leveler": "off",
+     "normalize": true,
+     "gain_db": 0.0
+    }
+   }
+  ]
+ },
+ "cleanup_rendered": {
+  "whole": {
+   "channel": "mix",
+   "highpass_hz": 70,
+   "lowpass_hz": 0,
+   "hum_hz": 60,
+   "presence_db": 0.0,
+   "declick": false,
+   "declip": false,
+   "denoise": "off",
+   "denoise_strength": "medium",
+   "leveler": "off",
+   "normalize": true,
+   "gain_db": 0.0
+  },
+  "blocks": [
+   {
+    "start": 64.394,
+    "end": 79.884,
+    "settings": {
+     "channel": "mix",
+     "highpass_hz": 130,
+     "lowpass_hz": 0,
+     "hum_hz": 60,
+     "presence_db": 0.0,
+     "declick": false,
+     "declip": false,
+     "denoise": "wavelet",
+     "denoise_strength": "medium",
+     "leveler": "off",
+     "normalize": true,
+     "gain_db": 0.0
+    }
+   },
+   {
+    "start": 80.472,
+    "end": 92.072,
+    "settings": {
+     "channel": "mix",
+     "highpass_hz": 130,
+     "lowpass_hz": 1000,
+     "hum_hz": 60,
+     "presence_db": 0.0,
+     "declick": false,
+     "declip": false,
+     "denoise": "wavelet",
+     "denoise_strength": "medium",
+     "leveler": "off",
+     "normalize": true,
+     "gain_db": 0.0
+    }
+   }
+  ]
+ },
+ "format_version": 1
+}

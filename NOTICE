@@ -1,0 +1,29 @@
+Transcript Studio
+Copyright (C) the Transcript Studio authors. Licensed under the GNU General Public License,
+version 3 (see LICENSE). The GPL covers this project's own code only.
+
+Sample audio
+------------
+samples/multispeaker/nasa-podcast-ep434-2speakers.mp3 and the tutorial file derived from it are an
+excerpt of "Artemis III Training", episode 434 of NASA Johnson Space Center's podcast
+"Houston We Have a Podcast":
+  https://www.nasa.gov/podcasts/houston-we-have-a-podcast/artemis-iii-training/
+NASA-produced media is generally not subject to US copyright; see NASA's media usage guidelines:
+  https://www.nasa.gov/nasa-brand-center/images-and-media/
+The audio keeps its own terms and is not covered by the GPL. The transcripts in samples/ are
+derived from it (NASA's own transcript is reproduced in the *.reference.md file).
+
+Third-party software (not distributed in this repository; installed or built separately)
+----------------------------------------------------------------------------------------
+- whisper.cpp (MIT)                    https://github.com/ggml-org/whisper.cpp
+- faster-whisper (MIT)                 https://github.com/SYSTRAN/faster-whisper
+- speechbrain (Apache-2.0)             https://github.com/speechbrain/speechbrain
+- resemblyzer (Apache-2.0)             https://github.com/resemble-ai/Resemblyzer
+- PySide6 / Qt for Python (LGPL-3.0)   https://doc.qt.io/qtforpython/
+- python-docx (MIT), scikit-learn (BSD-3-Clause), soundfile (BSD-3-Clause)
+- ffmpeg (LGPL/GPL, run as a separate program)  https://ffmpeg.org
+- Whisper model weights (MIT), downloaded on first use
+- ECAPA speaker model spkrec-ecapa-voxceleb (Apache-2.0), downloaded on first use
+- RNNoise model "cb.rnnn" from richardpl/arnndn-models, downloaded on first use if you choose
+  RNNoise noise reduction; see https://github.com/richardpl/arnndn-models for its terms. It is
+  not distributed here.
